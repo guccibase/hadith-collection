@@ -1,0 +1,5168 @@
+[
+    {
+        "BookID": "1",
+        "CollectionID": 1,
+        "hadith_count": 7,
+        "hadith_end": 7,
+        "hadith_start": 1,
+        "name_en": "Revelation",
+        "nameshort_en": "Revelation"
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 1,
+        "hadith_count": 51,
+        "hadith_end": 58,
+        "hadith_start": 8,
+        "name_en": "Belief",
+        "nameshort_en": "Belief"
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 1,
+        "hadith_count": 76,
+        "hadith_end": 134,
+        "hadith_start": 59,
+        "name_en": "Knowledge",
+        "nameshort_en": "Knowledge"
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 1,
+        "hadith_count": 114,
+        "hadith_end": 248,
+        "hadith_start": 135,
+        "name_en": "Ablutions (Wudu')",
+        "nameshort_en": "Ablutions (Wudu')"
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 1,
+        "hadith_count": 45,
+        "hadith_end": 293,
+        "hadith_start": 249,
+        "name_en": "Bathing (Ghusl)",
+        "nameshort_en": "Bathing (Ghusl)"
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 1,
+        "hadith_count": 37,
+        "hadith_end": 330,
+        "hadith_start": 294,
+        "name_en": "Menstrual Periods",
+        "nameshort_en": "Menstrual Periods"
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 1,
+        "hadith_count": 15,
+        "hadith_end": 345,
+        "hadith_start": 331,
+        "name_en": "Rubbing hands and feet with dust (Tayammum)",
+        "nameshort_en": "Rubbing hands and feet with dust (Tayammum)"
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 1,
+        "hadith_count": 167,
+        "hadith_end": 512,
+        "hadith_start": 346,
+        "name_en": "Prayers (Salat)",
+        "nameshort_en": "Prayers (Salat)"
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 1,
+        "hadith_count": 78,
+        "hadith_end": 590,
+        "hadith_start": 513,
+        "name_en": "Times of the Prayers",
+        "nameshort_en": "Times of the Prayers"
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 1,
+        "hadith_count": 266,
+        "hadith_end": 856,
+        "hadith_start": 591,
+        "name_en": "Call to Prayers (Adhaan)",
+        "nameshort_en": "Call to Prayers (Adhaan)"
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 1,
+        "hadith_count": 65,
+        "hadith_end": 921,
+        "hadith_start": 857,
+        "name_en": "Friday Prayer",
+        "nameshort_en": "Friday Prayer"
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 1,
+        "hadith_count": 6,
+        "hadith_end": 927,
+        "hadith_start": 922,
+        "name_en": "Fear Prayer",
+        "nameshort_en": "Fear Prayer"
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 1,
+        "hadith_count": 37,
+        "hadith_end": 964,
+        "hadith_start": 928,
+        "name_en": "The Two Festivals (Eids)",
+        "nameshort_en": "The Two Festivals (Eids)"
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 1,
+        "hadith_count": 15,
+        "hadith_end": 979,
+        "hadith_start": 965,
+        "name_en": "Witr Prayer",
+        "nameshort_en": "Witr Prayer"
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 1,
+        "hadith_count": 34,
+        "hadith_end": 1013,
+        "hadith_start": 980,
+        "name_en": "Invoking Allah for Rain (Istisqaa)",
+        "nameshort_en": "Invoking Allah for Rain (Istisqaa)"
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 1,
+        "hadith_count": 24,
+        "hadith_end": 1037,
+        "hadith_start": 1014,
+        "name_en": "Eclipses",
+        "nameshort_en": "Eclipses"
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 1,
+        "hadith_count": 13,
+        "hadith_end": 1050,
+        "hadith_start": 1038,
+        "name_en": "Prostration During Recital of Qur'an",
+        "nameshort_en": "Prostration During Recital of Qur'an"
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 1,
+        "hadith_count": 39,
+        "hadith_end": 1089,
+        "hadith_start": 1051,
+        "name_en": "Shortening the Prayers (At-Taqseer)",
+        "nameshort_en": "Shortening the Prayers (At-Taqseer)"
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 1,
+        "hadith_count": 63,
+        "hadith_end": 1152,
+        "hadith_start": 1090,
+        "name_en": "Prayer at Night (Tahajjud)",
+        "nameshort_en": "Prayer at Night (Tahajjud)"
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 1,
+        "hadith_count": 9,
+        "hadith_end": 1161,
+        "hadith_start": 1153,
+        "name_en": "Virtues of Prayer at Masjid Makkah and Madinah",
+        "nameshort_en": "Virtues of Prayer at Masjid Makkah and Madinah"
+    },
+    {
+        "BookID": "21",
+        "CollectionID": 1,
+        "hadith_count": 27,
+        "hadith_end": 1188,
+        "hadith_start": 1162,
+        "name_en": "Actions while Praying",
+        "nameshort_en": "Actions while Praying"
+    },
+    {
+        "BookID": "22",
+        "CollectionID": 1,
+        "hadith_count": 14,
+        "hadith_end": 1202,
+        "hadith_start": 1189,
+        "name_en": "Forgetfulness in Prayer",
+        "nameshort_en": "Forgetfulness in Prayer"
+    },
+    {
+        "BookID": "23",
+        "CollectionID": 1,
+        "hadith_count": 149,
+        "hadith_end": 1351,
+        "hadith_start": 1203,
+        "name_en": "Funerals (Al-Janaa'iz)",
+        "nameshort_en": "Funerals (Al-Janaa'iz)"
+    },
+    {
+        "BookID": "24",
+        "CollectionID": 1,
+        "hadith_count": 113,
+        "hadith_end": 1464,
+        "hadith_start": 1352,
+        "name_en": "Obligatory Charity Tax (Zakat)",
+        "nameshort_en": "Obligatory Charity Tax (Zakat)"
+    },
+    {
+        "BookID": "25",
+        "CollectionID": 1,
+        "hadith_count": 247,
+        "hadith_end": 1711,
+        "hadith_start": 1465,
+        "name_en": "Hajj (Pilgrimage)",
+        "nameshort_en": "Hajj (Pilgrimage)"
+    },
+    {
+        "BookID": "26",
+        "CollectionID": 1,
+        "hadith_count": 32,
+        "hadith_end": 1743,
+        "hadith_start": 1712,
+        "name_en": "`Umrah (Minor pilgrimage)",
+        "nameshort_en": "`Umrah (Minor pilgrimage)"
+    },
+    {
+        "BookID": "27",
+        "CollectionID": 1,
+        "hadith_count": 15,
+        "hadith_end": 1758,
+        "hadith_start": 1744,
+        "name_en": "Pilgrims Prevented from Completing the Pilgrimage",
+        "nameshort_en": "Pilgrims Prevented from Completing the Pilgrimage"
+    },
+    {
+        "BookID": "28",
+        "CollectionID": 1,
+        "hadith_count": 46,
+        "hadith_end": 1804,
+        "hadith_start": 1759,
+        "name_en": "Penalty of Hunting while on Pilgrimage",
+        "nameshort_en": "Penalty of Hunting while on Pilgrimage"
+    },
+    {
+        "BookID": "29",
+        "CollectionID": 1,
+        "hadith_count": 24,
+        "hadith_end": 1828,
+        "hadith_start": 1805,
+        "name_en": "Virtues of Madinah",
+        "nameshort_en": "Virtues of Madinah"
+    },
+    {
+        "BookID": "30",
+        "CollectionID": 1,
+        "hadith_count": 112,
+        "hadith_end": 1940,
+        "hadith_start": 1829,
+        "name_en": "Fasting",
+        "nameshort_en": "Fasting"
+    },
+    {
+        "BookID": "31",
+        "CollectionID": 1,
+        "hadith_count": 6,
+        "hadith_end": 1946,
+        "hadith_start": 1941,
+        "name_en": "Praying at Night in Ramadaan (Taraweeh)",
+        "nameshort_en": "Praying at Night in Ramadaan (Taraweeh)"
+    },
+    {
+        "BookID": "32",
+        "CollectionID": 1,
+        "hadith_count": 11,
+        "hadith_end": 1957,
+        "hadith_start": 1947,
+        "name_en": "Virtues of the Night of Qadr",
+        "nameshort_en": "Virtues of the Night of Qadr"
+    },
+    {
+        "BookID": "33",
+        "CollectionID": 1,
+        "hadith_count": 21,
+        "hadith_end": 1978,
+        "hadith_start": 1958,
+        "name_en": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+        "nameshort_en": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)"
+    },
+    {
+        "BookID": "34",
+        "CollectionID": 1,
+        "hadith_count": 184,
+        "hadith_end": 2162,
+        "hadith_start": 1979,
+        "name_en": "Sales and Trade",
+        "nameshort_en": "Sales and Trade"
+    },
+    {
+        "BookID": "35",
+        "CollectionID": 1,
+        "hadith_count": 16,
+        "hadith_end": 2178,
+        "hadith_start": 2163,
+        "name_en": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+        "nameshort_en": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)"
+    },
+    {
+        "BookID": "36",
+        "CollectionID": 1,
+        "hadith_count": 3,
+        "hadith_end": 2181,
+        "hadith_start": 2179,
+        "name_en": "Shuf'a",
+        "nameshort_en": "Shuf'a"
+    },
+    {
+        "BookID": "37",
+        "CollectionID": 1,
+        "hadith_count": 25,
+        "hadith_end": 2206,
+        "hadith_start": 2182,
+        "name_en": "Hiring",
+        "nameshort_en": "Hiring"
+    },
+    {
+        "BookID": "38",
+        "CollectionID": 1,
+        "hadith_count": 3,
+        "hadith_end": 2209,
+        "hadith_start": 2207,
+        "name_en": "Transference of a Debt from One Person to Another (Al-Hawaala)",
+        "nameshort_en": "Transference of a Debt from One Person to Another (Al-Hawaala)"
+    },
+    {
+        "BookID": "39",
+        "CollectionID": 1,
+        "hadith_count": 9,
+        "hadith_end": 2218,
+        "hadith_start": 2210,
+        "name_en": "Kafalah",
+        "nameshort_en": "Kafalah"
+    },
+    {
+        "BookID": "40",
+        "CollectionID": 1,
+        "hadith_count": 18,
+        "hadith_end": 2236,
+        "hadith_start": 2219,
+        "name_en": "Representation, Authorization, Business by Proxy",
+        "nameshort_en": "Representation, Authorization, Business by Proxy"
+    },
+    {
+        "BookID": "41",
+        "CollectionID": 1,
+        "hadith_count": 28,
+        "hadith_end": 2264,
+        "hadith_start": 2237,
+        "name_en": "Agriculture",
+        "nameshort_en": "Agriculture"
+    },
+    {
+        "BookID": "42",
+        "CollectionID": 1,
+        "hadith_count": 31,
+        "hadith_end": 2295,
+        "hadith_start": 2265,
+        "name_en": "Distribution of Water",
+        "nameshort_en": "Distribution of Water"
+    },
+    {
+        "BookID": "43",
+        "CollectionID": 1,
+        "hadith_count": 24,
+        "hadith_end": 2319,
+        "hadith_start": 2296,
+        "name_en": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+        "nameshort_en": "Loans, Payment of Loans, Freezing of Property, Bankruptcy"
+    },
+    {
+        "BookID": "44",
+        "CollectionID": 1,
+        "hadith_count": 15,
+        "hadith_end": 2334,
+        "hadith_start": 2320,
+        "name_en": "Khusoomaat",
+        "nameshort_en": "Khusoomaat"
+    },
+    {
+        "BookID": "45",
+        "CollectionID": 1,
+        "hadith_count": 15,
+        "hadith_end": 2349,
+        "hadith_start": 2335,
+        "name_en": "Lost Things Picked up by Someone (Luqatah)",
+        "nameshort_en": "Lost Things Picked up by Someone (Luqatah)"
+    },
+    {
+        "BookID": "46",
+        "CollectionID": 1,
+        "hadith_count": 43,
+        "hadith_end": 2392,
+        "hadith_start": 2350,
+        "name_en": "Oppressions",
+        "nameshort_en": "Oppressions"
+    },
+    {
+        "BookID": "47",
+        "CollectionID": 1,
+        "hadith_count": 22,
+        "hadith_end": 2414,
+        "hadith_start": 2393,
+        "name_en": "Partnership",
+        "nameshort_en": "Partnership"
+    },
+    {
+        "BookID": "48",
+        "CollectionID": 1,
+        "hadith_count": 8,
+        "hadith_end": 2422,
+        "hadith_start": 2415,
+        "name_en": "Mortgaging",
+        "nameshort_en": "Mortgaging"
+    },
+    {
+        "BookID": "49",
+        "CollectionID": 1,
+        "hadith_count": 42,
+        "hadith_end": 2464,
+        "hadith_start": 2423,
+        "name_en": "Manumission of Slaves",
+        "nameshort_en": "Manumission of Slaves"
+    },
+    {
+        "BookID": "50",
+        "CollectionID": 1,
+        "hadith_count": 6,
+        "hadith_end": 2470,
+        "hadith_start": 2465,
+        "name_en": "Makaatib",
+        "nameshort_en": "Makaatib"
+    },
+    {
+        "BookID": "51",
+        "CollectionID": 1,
+        "hadith_count": 68,
+        "hadith_end": 2538,
+        "hadith_start": 2471,
+        "name_en": "Gifts",
+        "nameshort_en": "Gifts"
+    },
+    {
+        "BookID": "52",
+        "CollectionID": 1,
+        "hadith_count": 50,
+        "hadith_end": 2588,
+        "hadith_start": 2539,
+        "name_en": "Witnesses",
+        "nameshort_en": "Witnesses"
+    },
+    {
+        "BookID": "53",
+        "CollectionID": 1,
+        "hadith_count": 20,
+        "hadith_end": 2608,
+        "hadith_start": 2589,
+        "name_en": "Peacemaking",
+        "nameshort_en": "Peacemaking"
+    },
+    {
+        "BookID": "54",
+        "CollectionID": 1,
+        "hadith_count": 24,
+        "hadith_end": 2632,
+        "hadith_start": 2609,
+        "name_en": "Conditions",
+        "nameshort_en": "Conditions"
+    },
+    {
+        "BookID": "55",
+        "CollectionID": 1,
+        "hadith_count": 44,
+        "hadith_end": 2676,
+        "hadith_start": 2633,
+        "name_en": "Wills and Testaments (Wasaayaa)",
+        "nameshort_en": "Wills and Testaments (Wasaayaa)"
+    },
+    {
+        "BookID": "56",
+        "CollectionID": 1,
+        "hadith_count": 295,
+        "hadith_end": 2971,
+        "hadith_start": 2677,
+        "name_en": "Fighting for the Cause of Allah (Jihaad)",
+        "nameshort_en": "Fighting for the Cause of Allah (Jihaad)"
+    },
+    {
+        "BookID": "57",
+        "CollectionID": 1,
+        "hadith_count": 63,
+        "hadith_end": 3034,
+        "hadith_start": 2972,
+        "name_en": "One-fifth of Booty to the Cause of Allah (Khumus)",
+        "nameshort_en": "One-fifth of Booty to the Cause of Allah (Khumus)"
+    },
+    {
+        "BookID": "58",
+        "CollectionID": 1,
+        "hadith_count": 30,
+        "hadith_end": 3064,
+        "hadith_start": 3035,
+        "name_en": "Jizyah and Mawaada'ah",
+        "nameshort_en": "Jizyah and Mawaada'ah"
+    },
+    {
+        "BookID": "59",
+        "CollectionID": 1,
+        "hadith_count": 131,
+        "hadith_end": 3195,
+        "hadith_start": 3065,
+        "name_en": "Beginning of Creation",
+        "nameshort_en": "Beginning of Creation"
+    },
+    {
+        "BookID": "60",
+        "CollectionID": 1,
+        "hadith_count": 154,
+        "hadith_end": 3349,
+        "hadith_start": 3196,
+        "name_en": "Prophets",
+        "nameshort_en": "Prophets"
+    },
+    {
+        "BookID": "61",
+        "CollectionID": 1,
+        "hadith_count": 151,
+        "hadith_end": 3500,
+        "hadith_start": 3350,
+        "name_en": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+        "nameshort_en": "Virtues and Merits of the Prophet (pbuh) and his Companions"
+    },
+    {
+        "BookID": "62",
+        "CollectionID": 1,
+        "hadith_count": 122,
+        "hadith_end": 3622,
+        "hadith_start": 3501,
+        "name_en": "Companions of the Prophet",
+        "nameshort_en": "Companions of the Prophet"
+    },
+    {
+        "BookID": "63",
+        "CollectionID": 1,
+        "hadith_count": 173,
+        "hadith_end": 3795,
+        "hadith_start": 3623,
+        "name_en": "Merits of the Helpers in Madinah (Ansaar)",
+        "nameshort_en": "Merits of the Helpers in Madinah (Ansaar)"
+    },
+    {
+        "BookID": "64",
+        "CollectionID": 1,
+        "hadith_count": 488,
+        "hadith_end": 4283,
+        "hadith_start": 3796,
+        "name_en": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+        "nameshort_en": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
+    },
+    {
+        "BookID": "65",
+        "CollectionID": 1,
+        "hadith_count": 498,
+        "hadith_end": 4781,
+        "hadith_start": 4284,
+        "name_en": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+        "nameshort_en": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
+    },
+    {
+        "BookID": "66",
+        "CollectionID": 1,
+        "hadith_count": 87,
+        "hadith_end": 4868,
+        "hadith_start": 4782,
+        "name_en": "Virtues of the Qur'an",
+        "nameshort_en": "Virtues of the Qur'an"
+    },
+    {
+        "BookID": "67",
+        "CollectionID": 1,
+        "hadith_count": 183,
+        "hadith_end": 5051,
+        "hadith_start": 4869,
+        "name_en": "Wedlock, Marriage (Nikaah)",
+        "nameshort_en": "Wedlock, Marriage (Nikaah)"
+    },
+    {
+        "BookID": "68",
+        "CollectionID": 1,
+        "hadith_count": 95,
+        "hadith_end": 5146,
+        "hadith_start": 5052,
+        "name_en": "Divorce",
+        "nameshort_en": "Divorce"
+    },
+    {
+        "BookID": "69",
+        "CollectionID": 1,
+        "hadith_count": 22,
+        "hadith_end": 5168,
+        "hadith_start": 5147,
+        "name_en": "Supporting the Family",
+        "nameshort_en": "Supporting the Family"
+    },
+    {
+        "BookID": "70",
+        "CollectionID": 1,
+        "hadith_count": 95,
+        "hadith_end": 5263,
+        "hadith_start": 5169,
+        "name_en": "Food, Meals",
+        "nameshort_en": "Food, Meals"
+    },
+    {
+        "BookID": "71",
+        "CollectionID": 1,
+        "hadith_count": 10,
+        "hadith_end": 5273,
+        "hadith_start": 5264,
+        "name_en": "Sacrifice on Occasion of Birth (`Aqiqa)",
+        "nameshort_en": "Sacrifice on Occasion of Birth (`Aqiqa)"
+    },
+    {
+        "BookID": "72",
+        "CollectionID": 1,
+        "hadith_count": 70,
+        "hadith_end": 5343,
+        "hadith_start": 5274,
+        "name_en": "Hunting, Slaughtering",
+        "nameshort_en": "Hunting, Slaughtering"
+    },
+    {
+        "BookID": "73",
+        "CollectionID": 1,
+        "hadith_count": 30,
+        "hadith_end": 5373,
+        "hadith_start": 5344,
+        "name_en": "Al-Adha Festival Sacrifice (Adaahi)",
+        "nameshort_en": "Al-Adha Festival Sacrifice (Adaahi)"
+    },
+    {
+        "BookID": "74",
+        "CollectionID": 1,
+        "hadith_count": 65,
+        "hadith_end": 5438,
+        "hadith_start": 5374,
+        "name_en": "Drinks",
+        "nameshort_en": "Drinks"
+    },
+    {
+        "BookID": "75",
+        "CollectionID": 1,
+        "hadith_count": 38,
+        "hadith_end": 5476,
+        "hadith_start": 5439,
+        "name_en": "Patients",
+        "nameshort_en": "Patients"
+    },
+    {
+        "BookID": "76",
+        "CollectionID": 1,
+        "hadith_count": 93,
+        "hadith_end": 5569,
+        "hadith_start": 5477,
+        "name_en": "Medicine",
+        "nameshort_en": "Medicine"
+    },
+    {
+        "BookID": "77",
+        "CollectionID": 1,
+        "hadith_count": 185,
+        "hadith_end": 5754,
+        "hadith_start": 5570,
+        "name_en": "Dress",
+        "nameshort_en": "Dress"
+    },
+    {
+        "BookID": "78",
+        "CollectionID": 1,
+        "hadith_count": 250,
+        "hadith_end": 6004,
+        "hadith_start": 5755,
+        "name_en": "Good Manners and Form (Al-Adab)",
+        "nameshort_en": "Good Manners and Form (Al-Adab)"
+    },
+    {
+        "BookID": "79",
+        "CollectionID": 1,
+        "hadith_count": 75,
+        "hadith_end": 6079,
+        "hadith_start": 6005,
+        "name_en": "Asking Permission",
+        "nameshort_en": "Asking Permission"
+    },
+    {
+        "BookID": "80",
+        "CollectionID": 1,
+        "hadith_count": 106,
+        "hadith_end": 6185,
+        "hadith_start": 6080,
+        "name_en": "Invocations",
+        "nameshort_en": "Invocations"
+    },
+    {
+        "BookID": "81",
+        "CollectionID": 1,
+        "hadith_count": 181,
+        "hadith_end": 6366,
+        "hadith_start": 6186,
+        "name_en": "To make the Heart Tender (Ar-Riqaq)",
+        "nameshort_en": "To make the Heart Tender (Ar-Riqaq)"
+    },
+    {
+        "BookID": "82",
+        "CollectionID": 1,
+        "hadith_count": 26,
+        "hadith_end": 6392,
+        "hadith_start": 6367,
+        "name_en": "Divine Will (Al-Qadar)",
+        "nameshort_en": "Divine Will (Al-Qadar)"
+    },
+    {
+        "BookID": "83",
+        "CollectionID": 1,
+        "hadith_count": 84,
+        "hadith_end": 6476,
+        "hadith_start": 6393,
+        "name_en": "Oaths and Vows",
+        "nameshort_en": "Oaths and Vows"
+    },
+    {
+        "BookID": "84",
+        "CollectionID": 1,
+        "hadith_count": 15,
+        "hadith_end": 6491,
+        "hadith_start": 6477,
+        "name_en": "Expiation for Unfulfilled Oaths",
+        "nameshort_en": "Expiation for Unfulfilled Oaths"
+    },
+    {
+        "BookID": "85",
+        "CollectionID": 1,
+        "hadith_count": 47,
+        "hadith_end": 6538,
+        "hadith_start": 6492,
+        "name_en": "Laws of Inheritance (Al-Faraa'id)",
+        "nameshort_en": "Laws of Inheritance (Al-Faraa'id)"
+    },
+    {
+        "BookID": "86",
+        "CollectionID": 1,
+        "hadith_count": 82,
+        "hadith_end": 6620,
+        "hadith_start": 6539,
+        "name_en": "Limits and Punishments set by Allah (Hudood)",
+        "nameshort_en": "Limits and Punishments set by Allah (Hudood)"
+    },
+    {
+        "BookID": "87",
+        "CollectionID": 1,
+        "hadith_count": 55,
+        "hadith_end": 6675,
+        "hadith_start": 6621,
+        "name_en": "Blood Money (Ad-Diyat)",
+        "nameshort_en": "Blood Money (Ad-Diyat)"
+    },
+    {
+        "BookID": "88",
+        "CollectionID": 1,
+        "hadith_count": 21,
+        "hadith_end": 6696,
+        "hadith_start": 6676,
+        "name_en": "Apostates",
+        "nameshort_en": "Apostates"
+    },
+    {
+        "BookID": "89",
+        "CollectionID": 1,
+        "hadith_count": 13,
+        "hadith_end": 6709,
+        "hadith_start": 6697,
+        "name_en": "(Statements made under) Coercion",
+        "nameshort_en": "(Statements made under) Coercion"
+    },
+    {
+        "BookID": "90",
+        "CollectionID": 1,
+        "hadith_count": 28,
+        "hadith_end": 6737,
+        "hadith_start": 6710,
+        "name_en": "Tricks",
+        "nameshort_en": "Tricks"
+    },
+    {
+        "BookID": "91",
+        "CollectionID": 1,
+        "hadith_count": 61,
+        "hadith_end": 6798,
+        "hadith_start": 6738,
+        "name_en": "Interpretation of Dreams",
+        "nameshort_en": "Interpretation of Dreams"
+    },
+    {
+        "BookID": "92",
+        "CollectionID": 1,
+        "hadith_count": 83,
+        "hadith_end": 6881,
+        "hadith_start": 6799,
+        "name_en": "Afflictions and the End of the World",
+        "nameshort_en": "Afflictions and the End of the World"
+    },
+    {
+        "BookID": "93",
+        "CollectionID": 1,
+        "hadith_count": 84,
+        "hadith_end": 6965,
+        "hadith_start": 6882,
+        "name_en": "Judgments (Ahkaam)",
+        "nameshort_en": "Judgments (Ahkaam)"
+    },
+    {
+        "BookID": "94",
+        "CollectionID": 1,
+        "hadith_count": 20,
+        "hadith_end": 6985,
+        "hadith_start": 6966,
+        "name_en": "Wishes",
+        "nameshort_en": "Wishes"
+    },
+    {
+        "BookID": "95",
+        "CollectionID": 1,
+        "hadith_count": 21,
+        "hadith_end": 7006,
+        "hadith_start": 6986,
+        "name_en": "Accepting Information Given by a Truthful Person",
+        "nameshort_en": "Accepting Information Given by a Truthful Person"
+    },
+    {
+        "BookID": "96",
+        "CollectionID": 1,
+        "hadith_count": 97,
+        "hadith_end": 7103,
+        "hadith_start": 7007,
+        "name_en": "Holding Fast to the Qur'an and Sunnah",
+        "nameshort_en": "Holding Fast to the Qur'an and Sunnah"
+    },
+    {
+        "BookID": "97",
+        "CollectionID": 1,
+        "hadith_count": 188,
+        "hadith_end": 7291,
+        "hadith_start": 7104,
+        "name_en": "Oneness, Uniqueness of Allah (Tawheed)",
+        "nameshort_en": "Oneness, Uniqueness of Allah (Tawheed)"
+    },
+    {
+        "BookID": "0",
+        "CollectionID": 2,
+        "hadith_count": 92,
+        "hadith_end": 92,
+        "hadith_start": 1,
+        "name_en": "Introduction",
+        "nameshort_en": "Introduction"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 2,
+        "hadith_count": 441,
+        "hadith_end": 533,
+        "hadith_start": 93,
+        "name_en": "The Book of Faith",
+        "nameshort_en": "Faith"
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 2,
+        "hadith_count": 144,
+        "hadith_end": 677,
+        "hadith_start": 534,
+        "name_en": "The Book of Purification",
+        "nameshort_en": "Purification"
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 2,
+        "hadith_count": 157,
+        "hadith_end": 834,
+        "hadith_start": 678,
+        "name_en": "The Book of Menstruation",
+        "nameshort_en": "Menstruation"
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 2,
+        "hadith_count": 322,
+        "hadith_end": 1156,
+        "hadith_start": 835,
+        "name_en": "The Book of Prayers",
+        "nameshort_en": "Prayers"
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 2,
+        "hadith_count": 405,
+        "hadith_end": 1561,
+        "hadith_start": 1157,
+        "name_en": "The Book of Mosques and Places of Prayer",
+        "nameshort_en": "Mosques and Places of Prayer"
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 2,
+        "hadith_count": 378,
+        "hadith_end": 1939,
+        "hadith_start": 1562,
+        "name_en": "The Book of Prayer - Travellers",
+        "nameshort_en": "Prayer - Travellers"
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 2,
+        "hadith_count": 93,
+        "hadith_end": 2032,
+        "hadith_start": 1940,
+        "name_en": "The Book of Prayer - Friday",
+        "nameshort_en": "Prayer - Friday"
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 2,
+        "hadith_count": 24,
+        "hadith_end": 2056,
+        "hadith_start": 2033,
+        "name_en": "The Book of Prayer - Two Eids",
+        "nameshort_en": "Prayer - Two Eids"
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 2,
+        "hadith_count": 19,
+        "hadith_end": 2075,
+        "hadith_start": 2057,
+        "name_en": "The Book of Prayer - Rain",
+        "nameshort_en": "Prayer - Rain"
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 2,
+        "hadith_count": 31,
+        "hadith_end": 2106,
+        "hadith_start": 2076,
+        "name_en": "The Book of Prayer - Eclipses",
+        "nameshort_en": "Prayer - Eclipses"
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 2,
+        "hadith_count": 138,
+        "hadith_end": 2244,
+        "hadith_start": 2107,
+        "name_en": "The Book of Prayer - Funerals",
+        "nameshort_en": "Prayer - Funerals"
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 2,
+        "hadith_count": 231,
+        "hadith_end": 2475,
+        "hadith_start": 2245,
+        "name_en": "The Book of Zakat",
+        "nameshort_en": "Zakat"
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 2,
+        "hadith_count": 285,
+        "hadith_end": 2760,
+        "hadith_start": 2476,
+        "name_en": "The Book of Fasting",
+        "nameshort_en": "Fasting"
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 2,
+        "hadith_count": 11,
+        "hadith_end": 2771,
+        "hadith_start": 2761,
+        "name_en": "The Book of I'tikaf",
+        "nameshort_en": "I'tikaf"
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 2,
+        "hadith_count": 601,
+        "hadith_end": 3372,
+        "hadith_start": 2772,
+        "name_en": "The Book of Pilgrimage",
+        "nameshort_en": "Pilgrimage"
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 2,
+        "hadith_count": 170,
+        "hadith_end": 3542,
+        "hadith_start": 3373,
+        "name_en": "The Book of Marriage",
+        "nameshort_en": "Marriage"
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 2,
+        "hadith_count": 84,
+        "hadith_end": 3626,
+        "hadith_start": 3543,
+        "name_en": "The Book of Suckling",
+        "nameshort_en": "Suckling"
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 2,
+        "hadith_count": 87,
+        "hadith_end": 3713,
+        "hadith_start": 3627,
+        "name_en": "The Book of Divorce",
+        "nameshort_en": "Divorce"
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 2,
+        "hadith_count": 27,
+        "hadith_end": 3740,
+        "hadith_start": 3714,
+        "name_en": "The Book of Invoking Curses",
+        "nameshort_en": "Invoking Curses"
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 2,
+        "hadith_count": 30,
+        "hadith_end": 3770,
+        "hadith_start": 3741,
+        "name_en": "The Book of Emancipating Slaves",
+        "nameshort_en": "Emancipating Slaves"
+    },
+    {
+        "BookID": "21",
+        "CollectionID": 2,
+        "hadith_count": 160,
+        "hadith_end": 3930,
+        "hadith_start": 3771,
+        "name_en": "The Book of Transactions",
+        "nameshort_en": "Transactions"
+    },
+    {
+        "BookID": "22",
+        "CollectionID": 2,
+        "hadith_count": 178,
+        "hadith_end": 4108,
+        "hadith_start": 3931,
+        "name_en": "The Book of Masaaqah",
+        "nameshort_en": "Masaaqah"
+    },
+    {
+        "BookID": "23",
+        "CollectionID": 2,
+        "hadith_count": 23,
+        "hadith_end": 4131,
+        "hadith_start": 4109,
+        "name_en": "The Book of the Rules of Inheritance",
+        "nameshort_en": "Rules of Inheritance"
+    },
+    {
+        "BookID": "24",
+        "CollectionID": 2,
+        "hadith_count": 41,
+        "hadith_end": 4172,
+        "hadith_start": 4132,
+        "name_en": "The Book of Gifts",
+        "nameshort_en": "Gifts"
+    },
+    {
+        "BookID": "25",
+        "CollectionID": 2,
+        "hadith_count": 31,
+        "hadith_end": 4203,
+        "hadith_start": 4173,
+        "name_en": "The Book of Wills",
+        "nameshort_en": "Wills"
+    },
+    {
+        "BookID": "26",
+        "CollectionID": 2,
+        "hadith_count": 18,
+        "hadith_end": 4221,
+        "hadith_start": 4204,
+        "name_en": "The Book of Vows",
+        "nameshort_en": "Vows"
+    },
+    {
+        "BookID": "27",
+        "CollectionID": 2,
+        "hadith_count": 89,
+        "hadith_end": 4310,
+        "hadith_start": 4222,
+        "name_en": "The Book of Oaths",
+        "nameshort_en": "Oaths"
+    },
+    {
+        "BookID": "28",
+        "CollectionID": 2,
+        "hadith_count": 56,
+        "hadith_end": 4366,
+        "hadith_start": 4311,
+        "name_en": "The Book of Oaths, Muharibin, Qasas, and Diyat",
+        "nameshort_en": "Oaths, Muharibin, Qasas, and Diyat"
+    },
+    {
+        "BookID": "29",
+        "CollectionID": 2,
+        "hadith_count": 72,
+        "hadith_end": 4438,
+        "hadith_start": 4367,
+        "name_en": "The Book of Legal Punishments",
+        "nameshort_en": "Legal Punishments"
+    },
+    {
+        "BookID": "30",
+        "CollectionID": 2,
+        "hadith_count": 28,
+        "hadith_end": 4466,
+        "hadith_start": 4439,
+        "name_en": "The Book of Judicial Decisions",
+        "nameshort_en": "Judicial Decisions"
+    },
+    {
+        "BookID": "31",
+        "CollectionID": 2,
+        "hadith_count": 20,
+        "hadith_end": 4486,
+        "hadith_start": 4467,
+        "name_en": "The Book of Lost Property",
+        "nameshort_en": "Lost Property"
+    },
+    {
+        "BookID": "32",
+        "CollectionID": 2,
+        "hadith_count": 182,
+        "hadith_end": 4668,
+        "hadith_start": 4487,
+        "name_en": "The Book of Jihad and Expeditions",
+        "nameshort_en": "Jihad and Expeditions"
+    },
+    {
+        "BookID": "33",
+        "CollectionID": 2,
+        "hadith_count": 266,
+        "hadith_end": 4934,
+        "hadith_start": 4669,
+        "name_en": "The Book on Government",
+        "nameshort_en": "Government"
+    },
+    {
+        "BookID": "34",
+        "CollectionID": 2,
+        "hadith_count": 92,
+        "hadith_end": 5026,
+        "hadith_start": 4935,
+        "name_en": "The Book of Hunting, Slaughter, and what may be Eaten",
+        "nameshort_en": "Hunting, Slaughter, and what may be Eaten"
+    },
+    {
+        "BookID": "35",
+        "CollectionID": 2,
+        "hadith_count": 62,
+        "hadith_end": 5088,
+        "hadith_start": 5027,
+        "name_en": "The Book of Sacrifices",
+        "nameshort_en": "Sacrifices"
+    },
+    {
+        "BookID": "36",
+        "CollectionID": 2,
+        "hadith_count": 258,
+        "hadith_end": 5346,
+        "hadith_start": 5089,
+        "name_en": "The Book of Drinks",
+        "nameshort_en": "Drinks"
+    },
+    {
+        "BookID": "37",
+        "CollectionID": 2,
+        "hadith_count": 193,
+        "hadith_end": 5539,
+        "hadith_start": 5347,
+        "name_en": "The Book of Clothes and Adornment",
+        "nameshort_en": "Clothes and Adornment"
+    },
+    {
+        "BookID": "38",
+        "CollectionID": 2,
+        "hadith_count": 60,
+        "hadith_end": 5599,
+        "hadith_start": 5540,
+        "name_en": "The Book of Manners and Etiquette",
+        "nameshort_en": "Manners and Etiquette"
+    },
+    {
+        "BookID": "39",
+        "CollectionID": 2,
+        "hadith_count": 212,
+        "hadith_end": 5811,
+        "hadith_start": 5600,
+        "name_en": "The Book of Greetings",
+        "nameshort_en": "Greetings"
+    },
+    {
+        "BookID": "40",
+        "CollectionID": 2,
+        "hadith_count": 23,
+        "hadith_end": 5834,
+        "hadith_start": 5812,
+        "name_en": "The Book Concerning the Use of Correct Words",
+        "nameshort_en": "Concerning the Use of Correct Words"
+    },
+    {
+        "BookID": "41",
+        "CollectionID": 2,
+        "hadith_count": 11,
+        "hadith_end": 5845,
+        "hadith_start": 5835,
+        "name_en": "The Book of Poetry",
+        "nameshort_en": "Poetry"
+    },
+    {
+        "BookID": "42",
+        "CollectionID": 2,
+        "hadith_count": 41,
+        "hadith_end": 5886,
+        "hadith_start": 5846,
+        "name_en": "The Book of Dreams",
+        "nameshort_en": "Dreams"
+    },
+    {
+        "BookID": "43",
+        "CollectionID": 2,
+        "hadith_count": 226,
+        "hadith_end": 6112,
+        "hadith_start": 5887,
+        "name_en": "The Book of Virtues",
+        "nameshort_en": "Virtues"
+    },
+    {
+        "BookID": "44",
+        "CollectionID": 2,
+        "hadith_count": 328,
+        "hadith_end": 6440,
+        "hadith_start": 6113,
+        "name_en": "The Book of the Merits of the Companions",
+        "nameshort_en": "Merits of the Companions"
+    },
+    {
+        "BookID": "45",
+        "CollectionID": 2,
+        "hadith_count": 217,
+        "hadith_end": 6657,
+        "hadith_start": 6441,
+        "name_en": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+        "nameshort_en": "Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
+    },
+    {
+        "BookID": "46",
+        "CollectionID": 2,
+        "hadith_count": 52,
+        "hadith_end": 6709,
+        "hadith_start": 6658,
+        "name_en": "The Book of Destiny",
+        "nameshort_en": "Destiny"
+    },
+    {
+        "BookID": "47",
+        "CollectionID": 2,
+        "hadith_count": 30,
+        "hadith_end": 6739,
+        "hadith_start": 6710,
+        "name_en": "The Book of Knowledge",
+        "nameshort_en": "Knowledge"
+    },
+    {
+        "BookID": "48",
+        "CollectionID": 2,
+        "hadith_count": 127,
+        "hadith_end": 6866,
+        "hadith_start": 6740,
+        "name_en": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
+        "nameshort_en": "Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness"
+    },
+    {
+        "BookID": "49",
+        "CollectionID": 2,
+        "hadith_count": 15,
+        "hadith_end": 6881,
+        "hadith_start": 6867,
+        "name_en": "The Book of Heart-Melting Traditions",
+        "nameshort_en": "Heart-Melting Traditions"
+    },
+    {
+        "BookID": "50",
+        "CollectionID": 2,
+        "hadith_count": 68,
+        "hadith_end": 6949,
+        "hadith_start": 6882,
+        "name_en": "The Book of Repentance",
+        "nameshort_en": "Repentance"
+    },
+    {
+        "BookID": "51",
+        "CollectionID": 2,
+        "hadith_count": 21,
+        "hadith_end": 6970,
+        "hadith_start": 6950,
+        "name_en": "Characteristics of The Hypocrites And Rulings Concerning Them",
+        "nameshort_en": "Hypocrites And Rulings Concerning Them"
+    },
+    {
+        "BookID": "52",
+        "CollectionID": 2,
+        "hadith_count": 82,
+        "hadith_end": 7052,
+        "hadith_start": 6971,
+        "name_en": "Characteristics of the Day of Judgment, Paradise, and Hell",
+        "nameshort_en": "Day of Judgment, Paradise, and Hell"
+    },
+    {
+        "BookID": "53",
+        "CollectionID": 2,
+        "hadith_count": 103,
+        "hadith_end": 7155,
+        "hadith_start": 7053,
+        "name_en": "The Book of Paradise, its Description, its Bounties and its Inhabitants",
+        "nameshort_en": "Paradise, its Description, its Bounties and its Inhabitants"
+    },
+    {
+        "BookID": "54",
+        "CollectionID": 2,
+        "hadith_count": 179,
+        "hadith_end": 7334,
+        "hadith_start": 7156,
+        "name_en": "The Book of Tribulations and Portents of the Last Hour",
+        "nameshort_en": "Tribulations and Portents of the Last Hour"
+    },
+    {
+        "BookID": "55",
+        "CollectionID": 2,
+        "hadith_count": 96,
+        "hadith_end": 7430,
+        "hadith_start": 7335,
+        "name_en": "The Book of Zuhd and Softening of Hearts",
+        "nameshort_en": "Zuhd and Softening of Hearts"
+    },
+    {
+        "BookID": "56",
+        "CollectionID": 2,
+        "hadith_count": 40,
+        "hadith_end": 7470,
+        "hadith_start": 7431,
+        "name_en": "The Book of Commentary on the Qur'an",
+        "nameshort_en": "Commentary on the Qur'an"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 3,
+        "hadith_count": 326,
+        "hadith_end": 326,
+        "hadith_start": 1,
+        "name_en": "The Book of Purification",
+        "nameshort_en": "Purification"
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 3,
+        "hadith_count": 23,
+        "hadith_end": 349,
+        "hadith_start": 327,
+        "name_en": "The Book of Water",
+        "nameshort_en": "Water"
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 3,
+        "hadith_count": 48,
+        "hadith_end": 397,
+        "hadith_start": 350,
+        "name_en": "The Book of Menstruation and Istihadah",
+        "nameshort_en": "Menstruation and Istihadah"
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 3,
+        "hadith_count": 53,
+        "hadith_end": 450,
+        "hadith_start": 398,
+        "name_en": "The Book of Ghusl & Tayammum",
+        "nameshort_en": "Ghusl & Tayammum"
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 3,
+        "hadith_count": 46,
+        "hadith_end": 496,
+        "hadith_start": 451,
+        "name_en": "The Book of Salah",
+        "nameshort_en": "Salah"
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 3,
+        "hadith_count": 135,
+        "hadith_end": 631,
+        "hadith_start": 497,
+        "name_en": "The Book of the Times (of Prayer)",
+        "nameshort_en": "Times (of Prayer)"
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 3,
+        "hadith_count": 63,
+        "hadith_end": 694,
+        "hadith_start": 632,
+        "name_en": "The Book of the Adhan (The Call to Prayer)",
+        "nameshort_en": "Adhan (The Call to Prayer)"
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 3,
+        "hadith_count": 54,
+        "hadith_end": 748,
+        "hadith_start": 695,
+        "name_en": "The Book of the Masjids",
+        "nameshort_en": "Masjids"
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 3,
+        "hadith_count": 35,
+        "hadith_end": 783,
+        "hadith_start": 749,
+        "name_en": "The Book of the Qiblah",
+        "nameshort_en": "Qiblah"
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 3,
+        "hadith_count": 99,
+        "hadith_end": 882,
+        "hadith_start": 784,
+        "name_en": "The Book of Leading the Prayer (Al-Imamah)",
+        "nameshort_en": "Leading the Prayer (Al-Imamah)"
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 3,
+        "hadith_count": 153,
+        "hadith_end": 1035,
+        "hadith_start": 883,
+        "name_en": "The Book of the Commencement of the Prayer",
+        "nameshort_en": "Commencement of the Prayer"
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 3,
+        "hadith_count": 150,
+        "hadith_end": 1185,
+        "hadith_start": 1036,
+        "name_en": "The Book of The At-Tatbiq (Clasping One's Hands Together)",
+        "nameshort_en": "At-Tatbiq (Clasping One's Hands Together)"
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 3,
+        "hadith_count": 188,
+        "hadith_end": 1373,
+        "hadith_start": 1186,
+        "name_en": "The Book of Forgetfulness (In Prayer)",
+        "nameshort_en": "Forgetfulness (In Prayer)"
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 3,
+        "hadith_count": 69,
+        "hadith_end": 1442,
+        "hadith_start": 1374,
+        "name_en": "The Book of Jumu'ah (Friday Prayer)",
+        "nameshort_en": "Jumu'ah (Friday Prayer)"
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 3,
+        "hadith_count": 26,
+        "hadith_end": 1468,
+        "hadith_start": 1443,
+        "name_en": "The Book of Shortening the Prayer When Traveling",
+        "nameshort_en": "Shortening the Prayer When Traveling"
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 3,
+        "hadith_count": 45,
+        "hadith_end": 1513,
+        "hadith_start": 1469,
+        "name_en": "The Book of Eclipses",
+        "nameshort_en": "Eclipses"
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 3,
+        "hadith_count": 25,
+        "hadith_end": 1538,
+        "hadith_start": 1514,
+        "name_en": "The Book of Praying for Rain (Al-Istisqa')",
+        "nameshort_en": "Praying for Rain (Al-Istisqa')"
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 3,
+        "hadith_count": 27,
+        "hadith_end": 1565,
+        "hadith_start": 1539,
+        "name_en": "The Book of the Fear Prayer",
+        "nameshort_en": "Fear Prayer"
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 3,
+        "hadith_count": 42,
+        "hadith_end": 1607,
+        "hadith_start": 1566,
+        "name_en": "The Book of the Prayer for the Two 'Eids",
+        "nameshort_en": "Prayer for the Two 'Eids"
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 3,
+        "hadith_count": 220,
+        "hadith_end": 1827,
+        "hadith_start": 1608,
+        "name_en": "The Book of Qiyam Al-Lail and Voluntary Prayers During the Day",
+        "nameshort_en": "Qiyam Al-Lail and Voluntary Prayers During the Day"
+    },
+    {
+        "BookID": "21",
+        "CollectionID": 3,
+        "hadith_count": 273,
+        "hadith_end": 2100,
+        "hadith_start": 1828,
+        "name_en": "The Book of Funerals",
+        "nameshort_en": "Funerals"
+    },
+    {
+        "BookID": "22",
+        "CollectionID": 3,
+        "hadith_count": 345,
+        "hadith_end": 2445,
+        "hadith_start": 2101,
+        "name_en": "The Book of Fasting",
+        "nameshort_en": "Fasting"
+    },
+    {
+        "BookID": "23",
+        "CollectionID": 3,
+        "hadith_count": 184,
+        "hadith_end": 2629,
+        "hadith_start": 2446,
+        "name_en": "The Book of Zakah",
+        "nameshort_en": "Zakah"
+    },
+    {
+        "BookID": "24",
+        "CollectionID": 3,
+        "hadith_count": 467,
+        "hadith_end": 3096,
+        "hadith_start": 2630,
+        "name_en": "The Book of Hajj",
+        "nameshort_en": "Hajj"
+    },
+    {
+        "BookID": "25",
+        "CollectionID": 3,
+        "hadith_count": 111,
+        "hadith_end": 3207,
+        "hadith_start": 3097,
+        "name_en": "The Book of Jihad",
+        "nameshort_en": "Jihad"
+    },
+    {
+        "BookID": "26",
+        "CollectionID": 3,
+        "hadith_count": 193,
+        "hadith_end": 3400,
+        "hadith_start": 3208,
+        "name_en": "The Book of Marriage",
+        "nameshort_en": "Marriage"
+    },
+    {
+        "BookID": "27",
+        "CollectionID": 3,
+        "hadith_count": 174,
+        "hadith_end": 3574,
+        "hadith_start": 3401,
+        "name_en": "The Book of Divorce",
+        "nameshort_en": "Divorce"
+    },
+    {
+        "BookID": "28",
+        "CollectionID": 3,
+        "hadith_count": 33,
+        "hadith_end": 3607,
+        "hadith_start": 3575,
+        "name_en": "The Book of Horses, Races and Shooting",
+        "nameshort_en": "Horses, Races and Shooting"
+    },
+    {
+        "BookID": "29",
+        "CollectionID": 3,
+        "hadith_count": 17,
+        "hadith_end": 3624,
+        "hadith_start": 3608,
+        "name_en": "The Book of Endowments",
+        "nameshort_en": "Endowments"
+    },
+    {
+        "BookID": "30",
+        "CollectionID": 3,
+        "hadith_count": 61,
+        "hadith_end": 3685,
+        "hadith_start": 3625,
+        "name_en": "The Book of Wills",
+        "nameshort_en": "Wills"
+    },
+    {
+        "BookID": "31",
+        "CollectionID": 3,
+        "hadith_count": 16,
+        "hadith_end": 3701,
+        "hadith_start": 3686,
+        "name_en": "The Book of Presents",
+        "nameshort_en": "Presents"
+    },
+    {
+        "BookID": "32",
+        "CollectionID": 3,
+        "hadith_count": 18,
+        "hadith_end": 3719,
+        "hadith_start": 3702,
+        "name_en": "The Book of Gifts",
+        "nameshort_en": "Gifts"
+    },
+    {
+        "BookID": "33",
+        "CollectionID": 3,
+        "hadith_count": 14,
+        "hadith_end": 3733,
+        "hadith_start": 3720,
+        "name_en": "The Book of ar-Ruqba",
+        "nameshort_en": "ar-Ruqba"
+    },
+    {
+        "BookID": "34",
+        "CollectionID": 3,
+        "hadith_count": 42,
+        "hadith_end": 3775,
+        "hadith_start": 3734,
+        "name_en": "The Book of 'Umra",
+        "nameshort_en": "Umra"
+    },
+    {
+        "BookID": "35",
+        "CollectionID": 3,
+        "hadith_count": 96,
+        "hadith_end": 3871,
+        "hadith_start": 3776,
+        "name_en": "The Book of Oaths and Vows",
+        "nameshort_en": "Oaths and Vows"
+    },
+    {
+        "BookID": "35b",
+        "CollectionID": 3,
+        "hadith_count": 83,
+        "hadith_end": 5774,
+        "hadith_start": 5692,
+        "name_en": "The Book of Agriculture",
+        "nameshort_en": "Agriculture"
+    },
+    {
+        "BookID": "36",
+        "CollectionID": 3,
+        "hadith_count": 27,
+        "hadith_end": 3898,
+        "hadith_start": 3872,
+        "name_en": "The Book of the Kind Treatment of Women",
+        "nameshort_en": "The Kind Treatment of Women"
+    },
+    {
+        "BookID": "37",
+        "CollectionID": 3,
+        "hadith_count": 167,
+        "hadith_end": 4065,
+        "hadith_start": 3899,
+        "name_en": "The Book of Fighting [The Prohibition of Bloodshed]",
+        "nameshort_en": "Fighting [The Prohibition of Bloodshed]"
+    },
+    {
+        "BookID": "38",
+        "CollectionID": 3,
+        "hadith_count": 16,
+        "hadith_end": 4081,
+        "hadith_start": 4066,
+        "name_en": "The Book of Distribution of Al-Fay'",
+        "nameshort_en": "The Book of Distribution of Al-Fay'"
+    },
+    {
+        "BookID": "39",
+        "CollectionID": 3,
+        "hadith_count": 63,
+        "hadith_end": 4144,
+        "hadith_start": 4082,
+        "name_en": "The Book of al-Bay'ah",
+        "nameshort_en": "al-Bay'ah"
+    },
+    {
+        "BookID": "40",
+        "CollectionID": 3,
+        "hadith_count": 10,
+        "hadith_end": 4154,
+        "hadith_start": 4145,
+        "name_en": "The Book of al-'Aqiqah",
+        "nameshort_en": "al-'Aqiqah"
+    },
+    {
+        "BookID": "41",
+        "CollectionID": 3,
+        "hadith_count": 41,
+        "hadith_end": 4195,
+        "hadith_start": 4155,
+        "name_en": "The Book of al-Fara' and al-'Atirah",
+        "nameshort_en": "al-Fara' and al-'Atirah"
+    },
+    {
+        "BookID": "42",
+        "CollectionID": 3,
+        "hadith_count": 98,
+        "hadith_end": 4293,
+        "hadith_start": 4196,
+        "name_en": "The Book of Hunting and Slaughtering",
+        "nameshort_en": "Hunting and Slaughtering"
+    },
+    {
+        "BookID": "43",
+        "CollectionID": 3,
+        "hadith_count": 88,
+        "hadith_end": 4381,
+        "hadith_start": 4294,
+        "name_en": "The Book of ad-Dahaya (Sacrifices)",
+        "nameshort_en": "ad-Dahaya (Sacrifices)"
+    },
+    {
+        "BookID": "44",
+        "CollectionID": 3,
+        "hadith_count": 257,
+        "hadith_end": 4638,
+        "hadith_start": 4382,
+        "name_en": "The Book of Financial Transactions",
+        "nameshort_en": "Financial Transactions"
+    },
+    {
+        "BookID": "45",
+        "CollectionID": 3,
+        "hadith_count": 164,
+        "hadith_end": 4802,
+        "hadith_start": 4639,
+        "name_en": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+        "nameshort_en": "Oaths (qasamah), Retaliation and Blood Money"
+    },
+    {
+        "BookID": "46",
+        "CollectionID": 3,
+        "hadith_count": 114,
+        "hadith_end": 4916,
+        "hadith_start": 4803,
+        "name_en": "The Book of Cutting off the Hand of the Thief",
+        "nameshort_en": "Cutting off the Hand of the Thief"
+    },
+    {
+        "BookID": "47",
+        "CollectionID": 3,
+        "hadith_count": 55,
+        "hadith_end": 4971,
+        "hadith_start": 4917,
+        "name_en": "The Book Of Faith and its Signs",
+        "nameshort_en": "Faith and its Signs"
+    },
+    {
+        "BookID": "48",
+        "CollectionID": 3,
+        "hadith_count": 339,
+        "hadith_end": 5310,
+        "hadith_start": 4972,
+        "name_en": "The Book of Adornment",
+        "nameshort_en": "Adornment"
+    },
+    {
+        "BookID": "49",
+        "CollectionID": 3,
+        "hadith_count": 49,
+        "hadith_end": 5359,
+        "hadith_start": 5311,
+        "name_en": "The Book of the Etiquette of Judges",
+        "nameshort_en": "Etiquette of Judges"
+    },
+    {
+        "BookID": "50",
+        "CollectionID": 3,
+        "hadith_count": 112,
+        "hadith_end": 5471,
+        "hadith_start": 5360,
+        "name_en": "The Book of Seeking Refuge with Allah",
+        "nameshort_en": "Seeking Refuge with Allah"
+    },
+    {
+        "BookID": "51",
+        "CollectionID": 3,
+        "hadith_count": 220,
+        "hadith_end": 5691,
+        "hadith_start": 5472,
+        "name_en": "The Book of Drinks",
+        "nameshort_en": "Drinks"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 4,
+        "hadith_count": 390,
+        "hadith_end": 390,
+        "hadith_start": 1,
+        "name_en": "Purification (Kitab Al-Taharah)",
+        "nameshort_en": "Purification"
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 4,
+        "hadith_count": 771,
+        "hadith_end": 1161,
+        "hadith_start": 391,
+        "name_en": "Prayer (Kitab Al-Salat)",
+        "nameshort_en": "Prayer"
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 4,
+        "hadith_count": 37,
+        "hadith_end": 1198,
+        "hadith_start": 1162,
+        "name_en": "The Book Of The Prayer For Rain (Kitab al-Istisqa')",
+        "nameshort_en": "Prayer For Rain"
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 4,
+        "hadith_count": 52,
+        "hadith_end": 1250,
+        "hadith_start": 1199,
+        "name_en": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey",
+        "nameshort_en": "Rules of Law about the Prayer during Journey"
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 4,
+        "hadith_count": 121,
+        "hadith_end": 1371,
+        "hadith_start": 1251,
+        "name_en": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+        "nameshort_en": "Voluntary Prayers"
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 4,
+        "hadith_count": 30,
+        "hadith_end": 1401,
+        "hadith_start": 1372,
+        "name_en": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan",
+        "nameshort_en": "Detailed Injunctions about Ramadan"
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 4,
+        "hadith_count": 15,
+        "hadith_end": 1416,
+        "hadith_start": 1402,
+        "name_en": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+        "nameshort_en": "Prostration while reciting the Qur'an"
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 4,
+        "hadith_count": 140,
+        "hadith_end": 1556,
+        "hadith_start": 1417,
+        "name_en": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr",
+        "nameshort_en": "Detailed Injunctions about Witr"
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 4,
+        "hadith_count": 145,
+        "hadith_end": 1701,
+        "hadith_start": 1557,
+        "name_en": "Zakat (Kitab Al-Zakat)",
+        "nameshort_en": "Zakat"
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 4,
+        "hadith_count": 20,
+        "hadith_end": 1721,
+        "hadith_start": 1702,
+        "name_en": "The Book of Lost and Found Items",
+        "nameshort_en": "Lost and Found Items"
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 4,
+        "hadith_count": 325,
+        "hadith_end": 2046,
+        "hadith_start": 1722,
+        "name_en": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)",
+        "nameshort_en": "The Rites of Hajj"
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 4,
+        "hadith_count": 129,
+        "hadith_end": 2175,
+        "hadith_start": 2047,
+        "name_en": "Marriage (Kitab Al-Nikah)",
+        "nameshort_en": "Marriage"
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 4,
+        "hadith_count": 138,
+        "hadith_end": 2313,
+        "hadith_start": 2176,
+        "name_en": "Divorce (Kitab Al-Talaq)",
+        "nameshort_en": "Divorce"
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 4,
+        "hadith_count": 164,
+        "hadith_end": 2477,
+        "hadith_start": 2314,
+        "name_en": "Fasting (Kitab Al-Siyam)",
+        "nameshort_en": "Fasting"
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 4,
+        "hadith_count": 311,
+        "hadith_end": 2788,
+        "hadith_start": 2478,
+        "name_en": "Jihad (Kitab Al-Jihad)",
+        "nameshort_en": "Jihad"
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 4,
+        "hadith_count": 56,
+        "hadith_end": 2844,
+        "hadith_start": 2789,
+        "name_en": "Sacrifice (Kitab Al-Dahaya)",
+        "nameshort_en": "Sacrifice"
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 4,
+        "hadith_count": 18,
+        "hadith_end": 2862,
+        "hadith_start": 2845,
+        "name_en": "Game (Kitab Al-Said)",
+        "nameshort_en": "Game"
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 4,
+        "hadith_count": 23,
+        "hadith_end": 2885,
+        "hadith_start": 2863,
+        "name_en": "Wills (Kitab Al-Wasaya)",
+        "nameshort_en": "Wills"
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 4,
+        "hadith_count": 43,
+        "hadith_end": 2928,
+        "hadith_start": 2886,
+        "name_en": "Shares of Inheritance (Kitab Al-Fara'id)",
+        "nameshort_en": "Shares of Inheritance"
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 4,
+        "hadith_count": 161,
+        "hadith_end": 3089,
+        "hadith_start": 2929,
+        "name_en": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)",
+        "nameshort_en": "Tribute, Spoils, and Rulership"
+    },
+    {
+        "BookID": "21",
+        "CollectionID": 4,
+        "hadith_count": 153,
+        "hadith_end": 3242,
+        "hadith_start": 3090,
+        "name_en": "Funerals (Kitab Al-Jana'iz)",
+        "nameshort_en": "Funerals"
+    },
+    {
+        "BookID": "22",
+        "CollectionID": 4,
+        "hadith_count": 84,
+        "hadith_end": 3326,
+        "hadith_start": 3243,
+        "name_en": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)",
+        "nameshort_en": "Oaths and Vows"
+    },
+    {
+        "BookID": "23",
+        "CollectionID": 4,
+        "hadith_count": 90,
+        "hadith_end": 3416,
+        "hadith_start": 3327,
+        "name_en": "Commercial Transactions (Kitab Al-Buyu)",
+        "nameshort_en": "Commercial Transactions"
+    },
+    {
+        "BookID": "24",
+        "CollectionID": 4,
+        "hadith_count": 155,
+        "hadith_end": 3571,
+        "hadith_start": 3417,
+        "name_en": "Wages (Kitab Al-Ijarah)",
+        "nameshort_en": "Wages"
+    },
+    {
+        "BookID": "25",
+        "CollectionID": 4,
+        "hadith_count": 70,
+        "hadith_end": 3641,
+        "hadith_start": 3572,
+        "name_en": "The Office of the Judge (Kitab Al-Aqdiyah)",
+        "nameshort_en": "The Office of the Judge"
+    },
+    {
+        "BookID": "26",
+        "CollectionID": 4,
+        "hadith_count": 28,
+        "hadith_end": 3669,
+        "hadith_start": 3642,
+        "name_en": "Knowledge (Kitab Al-Ilm)",
+        "nameshort_en": "Knowledge"
+    },
+    {
+        "BookID": "27",
+        "CollectionID": 4,
+        "hadith_count": 67,
+        "hadith_end": 3736,
+        "hadith_start": 3670,
+        "name_en": "Drinks (Kitab Al-Ashribah)",
+        "nameshort_en": "Drinks"
+    },
+    {
+        "BookID": "28",
+        "CollectionID": 4,
+        "hadith_count": 119,
+        "hadith_end": 3855,
+        "hadith_start": 3737,
+        "name_en": "Foods (Kitab Al-At'imah)",
+        "nameshort_en": "Foods"
+    },
+    {
+        "BookID": "29",
+        "CollectionID": 4,
+        "hadith_count": 49,
+        "hadith_end": 3904,
+        "hadith_start": 3856,
+        "name_en": "Medicine (Kitab Al-Tibb)",
+        "nameshort_en": "Medicine"
+    },
+    {
+        "BookID": "30",
+        "CollectionID": 4,
+        "hadith_count": 22,
+        "hadith_end": 3926,
+        "hadith_start": 3905,
+        "name_en": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)",
+        "nameshort_en": "Divination and Omens"
+    },
+    {
+        "BookID": "31",
+        "CollectionID": 4,
+        "hadith_count": 43,
+        "hadith_end": 3969,
+        "hadith_start": 3927,
+        "name_en": "The Book of Manumission of Slaves",
+        "nameshort_en": "Manumission of Slaves"
+    },
+    {
+        "BookID": "32",
+        "CollectionID": 4,
+        "hadith_count": 40,
+        "hadith_end": 4009,
+        "hadith_start": 3970,
+        "name_en": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)",
+        "nameshort_en": "Dialects and Readings of the Qur'an"
+    },
+    {
+        "BookID": "33",
+        "CollectionID": 4,
+        "hadith_count": 11,
+        "hadith_end": 4020,
+        "hadith_start": 4010,
+        "name_en": "Hot Baths (Kitab Al-Hammam)",
+        "nameshort_en": "Hot Baths"
+    },
+    {
+        "BookID": "34",
+        "CollectionID": 4,
+        "hadith_count": 139,
+        "hadith_end": 4159,
+        "hadith_start": 4021,
+        "name_en": "Clothing (Kitab Al-Libas)",
+        "nameshort_en": "Clothing"
+    },
+    {
+        "BookID": "35",
+        "CollectionID": 4,
+        "hadith_count": 55,
+        "hadith_end": 4214,
+        "hadith_start": 4160,
+        "name_en": "Combing the Hair (Kitab Al-Tarajjul)",
+        "nameshort_en": "Combing the Hair"
+    },
+    {
+        "BookID": "36",
+        "CollectionID": 4,
+        "hadith_count": 26,
+        "hadith_end": 4240,
+        "hadith_start": 4215,
+        "name_en": "Signet-Rings (Kitab Al-Khatam)",
+        "nameshort_en": "Signet-Rings"
+    },
+    {
+        "BookID": "37",
+        "CollectionID": 4,
+        "hadith_count": 39,
+        "hadith_end": 4279,
+        "hadith_start": 4241,
+        "name_en": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)",
+        "nameshort_en": "Trials and Fierce Battles"
+    },
+    {
+        "BookID": "38",
+        "CollectionID": 4,
+        "hadith_count": 13,
+        "hadith_end": 4292,
+        "hadith_start": 4280,
+        "name_en": "The Promised Deliverer (Kitab Al-Mahdi)",
+        "nameshort_en": "The Promised Deliverer"
+    },
+    {
+        "BookID": "39",
+        "CollectionID": 4,
+        "hadith_count": 60,
+        "hadith_end": 4352,
+        "hadith_start": 4293,
+        "name_en": "Battles (Kitab Al-Malahim)",
+        "nameshort_en": "Battles"
+    },
+    {
+        "BookID": "40",
+        "CollectionID": 4,
+        "hadith_count": 143,
+        "hadith_end": 4495,
+        "hadith_start": 4353,
+        "name_en": "Prescribed Punishments (Kitab Al-Hudud)",
+        "nameshort_en": "Prescribed Punishments"
+    },
+    {
+        "BookID": "41",
+        "CollectionID": 4,
+        "hadith_count": 102,
+        "hadith_end": 4597,
+        "hadith_start": 4496,
+        "name_en": "Types of Blood-Wit (Kitab Al-Diyat)",
+        "nameshort_en": "Types of Blood-Wit"
+    },
+    {
+        "BookID": "42",
+        "CollectionID": 4,
+        "hadith_count": 177,
+        "hadith_end": 4774,
+        "hadith_start": 4598,
+        "name_en": "Model Behavior of the Prophet (Kitab Al-Sunnah)",
+        "nameshort_en": "Model Behavior of the Prophet"
+    },
+    {
+        "BookID": "43",
+        "CollectionID": 4,
+        "hadith_count": 502,
+        "hadith_end": 5276,
+        "hadith_start": 4775,
+        "name_en": "General Behavior (Kitab Al-Adab)",
+        "nameshort_en": "General Behavior"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 5,
+        "hadith_count": 148,
+        "hadith_end": 148,
+        "hadith_start": 1,
+        "name_en": "The Book on Purification",
+        "nameshort_en": "Purification"
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 5,
+        "hadith_count": 304,
+        "hadith_end": 452,
+        "hadith_start": 149,
+        "name_en": "The Book on Salat (Prayer)",
+        "nameshort_en": "Salat (Prayer)"
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 5,
+        "hadith_count": 35,
+        "hadith_end": 487,
+        "hadith_start": 453,
+        "name_en": "The Book on Al-Witr",
+        "nameshort_en": "Al-Witr"
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 5,
+        "hadith_count": 42,
+        "hadith_end": 529,
+        "hadith_start": 488,
+        "name_en": "The Book on the Day of Friday",
+        "nameshort_en": "Day of Friday"
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 5,
+        "hadith_count": 14,
+        "hadith_end": 543,
+        "hadith_start": 530,
+        "name_en": "The Book on the Two Eids",
+        "nameshort_en": "Two Eids"
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 5,
+        "hadith_count": 73,
+        "hadith_end": 616,
+        "hadith_start": 544,
+        "name_en": "The Book on Traveling",
+        "nameshort_en": "Traveling"
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 5,
+        "hadith_count": 65,
+        "hadith_end": 681,
+        "hadith_start": 617,
+        "name_en": "The Book on Zakat",
+        "nameshort_en": "Zakat"
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 5,
+        "hadith_count": 127,
+        "hadith_end": 808,
+        "hadith_start": 682,
+        "name_en": "The Book on Fasting",
+        "nameshort_en": "Fasting"
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 5,
+        "hadith_count": 158,
+        "hadith_end": 966,
+        "hadith_start": 809,
+        "name_en": "The Book on Hajj",
+        "nameshort_en": "Hajj"
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 5,
+        "hadith_count": 115,
+        "hadith_end": 1081,
+        "hadith_start": 967,
+        "name_en": "The Book on Jana''iz (Funerals)",
+        "nameshort_en": "Jana''iz (Funerals)"
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 5,
+        "hadith_count": 67,
+        "hadith_end": 1148,
+        "hadith_start": 1082,
+        "name_en": "The Book on Marriage",
+        "nameshort_en": "Marriage"
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 5,
+        "hadith_count": 29,
+        "hadith_end": 1177,
+        "hadith_start": 1149,
+        "name_en": "The Book on Suckling",
+        "nameshort_en": "Suckling"
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 5,
+        "hadith_count": 31,
+        "hadith_end": 1208,
+        "hadith_start": 1178,
+        "name_en": "The Book on Divorce and Li'an",
+        "nameshort_en": "Divorce and Li'an"
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 5,
+        "hadith_count": 125,
+        "hadith_end": 1333,
+        "hadith_start": 1209,
+        "name_en": "The Book on Business",
+        "nameshort_en": "Business"
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 5,
+        "hadith_count": 66,
+        "hadith_end": 1399,
+        "hadith_start": 1334,
+        "name_en": "The Chapters On Judgements From The Messenger of Allah",
+        "nameshort_en": "Judgements From The Messenger of Allah"
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 5,
+        "hadith_count": 39,
+        "hadith_end": 1438,
+        "hadith_start": 1400,
+        "name_en": "The Book on Blood Money",
+        "nameshort_en": "Blood Money"
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 5,
+        "hadith_count": 47,
+        "hadith_end": 1485,
+        "hadith_start": 1439,
+        "name_en": "The Book on Legal Punishments (Al-Hudud)",
+        "nameshort_en": "Legal Punishments (Al-Hudud)"
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 5,
+        "hadith_count": 36,
+        "hadith_end": 1521,
+        "hadith_start": 1486,
+        "name_en": "The Book on Hunting",
+        "nameshort_en": "Hunting"
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 5,
+        "hadith_count": 36,
+        "hadith_end": 1557,
+        "hadith_start": 1522,
+        "name_en": "The Book on Sacrifices",
+        "nameshort_en": "Sacrifices"
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 5,
+        "hadith_count": 26,
+        "hadith_end": 1583,
+        "hadith_start": 1558,
+        "name_en": "The Book on Vows and Oaths",
+        "nameshort_en": "Vows and Oaths"
+    },
+    {
+        "BookID": "21",
+        "CollectionID": 5,
+        "hadith_count": 83,
+        "hadith_end": 1666,
+        "hadith_start": 1584,
+        "name_en": "The Book on Military Expeditions",
+        "nameshort_en": "Military Expeditions"
+    },
+    {
+        "BookID": "22",
+        "CollectionID": 5,
+        "hadith_count": 52,
+        "hadith_end": 1718,
+        "hadith_start": 1667,
+        "name_en": "The Book on Virtues of Jihad",
+        "nameshort_en": "Virtues of Jihad"
+    },
+    {
+        "BookID": "23",
+        "CollectionID": 5,
+        "hadith_count": 53,
+        "hadith_end": 1771,
+        "hadith_start": 1719,
+        "name_en": "The Book on Jihad",
+        "nameshort_en": "The Book on Jihad"
+    },
+    {
+        "BookID": "24",
+        "CollectionID": 5,
+        "hadith_count": 76,
+        "hadith_end": 1847,
+        "hadith_start": 1772,
+        "name_en": "The Book on Clothing",
+        "nameshort_en": "Clothing"
+    },
+    {
+        "BookID": "25",
+        "CollectionID": 5,
+        "hadith_count": 78,
+        "hadith_end": 1925,
+        "hadith_start": 1848,
+        "name_en": "The Book on Food",
+        "nameshort_en": "Food"
+    },
+    {
+        "BookID": "26",
+        "CollectionID": 5,
+        "hadith_count": 37,
+        "hadith_end": 1962,
+        "hadith_start": 1926,
+        "name_en": "The Book on Drinks",
+        "nameshort_en": "Drinks"
+    },
+    {
+        "BookID": "27",
+        "CollectionID": 5,
+        "hadith_count": 141,
+        "hadith_end": 2103,
+        "hadith_start": 1963,
+        "name_en": "Chapters on Righteousness And Maintaining Good Relations With Relatives",
+        "nameshort_en": "Righteousness And Maintaining Good Relations With Relatives"
+    },
+    {
+        "BookID": "28",
+        "CollectionID": 5,
+        "hadith_count": 65,
+        "hadith_end": 2168,
+        "hadith_start": 2104,
+        "name_en": "Chapters on Medicine",
+        "nameshort_en": "Medicine"
+    },
+    {
+        "BookID": "29",
+        "CollectionID": 5,
+        "hadith_count": 29,
+        "hadith_end": 2197,
+        "hadith_start": 2169,
+        "name_en": "Chapters On Inheritance",
+        "nameshort_en": "Inheritance"
+    },
+    {
+        "BookID": "30",
+        "CollectionID": 5,
+        "hadith_count": 9,
+        "hadith_end": 2206,
+        "hadith_start": 2198,
+        "name_en": "Chapters On Wasaya (Wills and Testament)",
+        "nameshort_en": "Wasaya (Wills and Testament)"
+    },
+    {
+        "BookID": "31",
+        "CollectionID": 5,
+        "hadith_count": 9,
+        "hadith_end": 2215,
+        "hadith_start": 2207,
+        "name_en": "Chapters On Wala' And Gifts",
+        "nameshort_en": "Wala' And Gifts"
+    },
+    {
+        "BookID": "32",
+        "CollectionID": 5,
+        "hadith_count": 31,
+        "hadith_end": 2246,
+        "hadith_start": 2216,
+        "name_en": "Chapters On Al-Qadar",
+        "nameshort_en": "Al-Qadar"
+    },
+    {
+        "BookID": "33",
+        "CollectionID": 5,
+        "hadith_count": 112,
+        "hadith_end": 2358,
+        "hadith_start": 2247,
+        "name_en": "Chapters On Al-Fitan",
+        "nameshort_en": "Al-Fitan"
+    },
+    {
+        "BookID": "34",
+        "CollectionID": 5,
+        "hadith_count": 25,
+        "hadith_end": 2383,
+        "hadith_start": 2359,
+        "name_en": "Chapters On Dreams",
+        "nameshort_en": "Dreams"
+    },
+    {
+        "BookID": "35",
+        "CollectionID": 5,
+        "hadith_count": 9,
+        "hadith_end": 2392,
+        "hadith_start": 2384,
+        "name_en": "Chapters On Witnesses",
+        "nameshort_en": "Witnesses"
+    },
+    {
+        "BookID": "36",
+        "CollectionID": 5,
+        "hadith_count": 112,
+        "hadith_end": 2504,
+        "hadith_start": 2393,
+        "name_en": "Chapters On Zuhd",
+        "nameshort_en": "Zuhd"
+    },
+    {
+        "BookID": "37",
+        "CollectionID": 5,
+        "hadith_count": 116,
+        "hadith_end": 2620,
+        "hadith_start": 2505,
+        "name_en": "Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'",
+        "nameshort_en": "Description of the Day of Judgement, Ar-Riqaq, and Al-Wara'"
+    },
+    {
+        "BookID": "38",
+        "CollectionID": 5,
+        "hadith_count": 59,
+        "hadith_end": 2679,
+        "hadith_start": 2621,
+        "name_en": "Chapters on the description of Paradise",
+        "nameshort_en": "Description of Paradise"
+    },
+    {
+        "BookID": "39",
+        "CollectionID": 5,
+        "hadith_count": 37,
+        "hadith_end": 2716,
+        "hadith_start": 2680,
+        "name_en": "The Book on the Description of Hellfire",
+        "nameshort_en": "Description of Hellfire"
+    },
+    {
+        "BookID": "40",
+        "CollectionID": 5,
+        "hadith_count": 39,
+        "hadith_end": 2755,
+        "hadith_start": 2717,
+        "name_en": "The Book on Faith",
+        "nameshort_en": "Faith"
+    },
+    {
+        "BookID": "41",
+        "CollectionID": 5,
+        "hadith_count": 43,
+        "hadith_end": 2798,
+        "hadith_start": 2756,
+        "name_en": "Chapters on Knowledge",
+        "nameshort_en": "Knowledge"
+    },
+    {
+        "BookID": "42",
+        "CollectionID": 5,
+        "hadith_count": 48,
+        "hadith_end": 2846,
+        "hadith_start": 2799,
+        "name_en": "Chapters on Seeking Permission",
+        "nameshort_en": "Seeking Permission"
+    },
+    {
+        "BookID": "43",
+        "CollectionID": 5,
+        "hadith_count": 142,
+        "hadith_end": 2988,
+        "hadith_start": 2847,
+        "name_en": "Chapters on Manners",
+        "nameshort_en": "Manners"
+    },
+    {
+        "BookID": "44",
+        "CollectionID": 5,
+        "hadith_count": 17,
+        "hadith_end": 3005,
+        "hadith_start": 2989,
+        "name_en": "Chapters on Parables",
+        "nameshort_en": "Parables"
+    },
+    {
+        "BookID": "45",
+        "CollectionID": 5,
+        "hadith_count": 63,
+        "hadith_end": 3068,
+        "hadith_start": 3006,
+        "name_en": "Chapters on The Virtues of the Qur'an",
+        "nameshort_en": "Virtues of the Qur'an"
+    },
+    {
+        "BookID": "46",
+        "CollectionID": 5,
+        "hadith_count": 27,
+        "hadith_end": 3095,
+        "hadith_start": 3069,
+        "name_en": "Chapters on Recitation",
+        "nameshort_en": "Recitation"
+    },
+    {
+        "BookID": "47",
+        "CollectionID": 5,
+        "hadith_count": 492,
+        "hadith_end": 3587,
+        "hadith_start": 3096,
+        "name_en": "Chapters on Tafsir",
+        "nameshort_en": "Tafsir"
+    },
+    {
+        "BookID": "48",
+        "CollectionID": 5,
+        "hadith_count": 244,
+        "hadith_end": 3831,
+        "hadith_start": 3588,
+        "name_en": "Chapters on Supplication",
+        "nameshort_en": "Supplication"
+    },
+    {
+        "BookID": "49",
+        "CollectionID": 5,
+        "hadith_count": 378,
+        "hadith_end": 4209,
+        "hadith_start": 3832,
+        "name_en": "Chapters on Virtues",
+        "nameshort_en": "Virtues"
+    },
+    {
+        "BookID": "0",
+        "CollectionID": 6,
+        "hadith_count": 266,
+        "hadith_end": 266,
+        "hadith_start": 1,
+        "name_en": "The Book of the Sunnah",
+        "nameshort_en": "Sunnah"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 6,
+        "hadith_count": 400,
+        "hadith_end": 666,
+        "hadith_start": 267,
+        "name_en": "The Book of Purification and its Sunnah",
+        "nameshort_en": "Purification and its Sunnah"
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 6,
+        "hadith_count": 39,
+        "hadith_end": 705,
+        "hadith_start": 667,
+        "name_en": "The Book of the Prayer",
+        "nameshort_en": "Prayer"
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 6,
+        "hadith_count": 29,
+        "hadith_end": 734,
+        "hadith_start": 706,
+        "name_en": "The Book of the Adhan and the Sunnah Regarding It",
+        "nameshort_en": "Adhan and the Sunnah Regarding It"
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 6,
+        "hadith_count": 68,
+        "hadith_end": 802,
+        "hadith_start": 735,
+        "name_en": "The Book On The Mosques And The Congregations",
+        "nameshort_en": "Mosques And The Congregations"
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 6,
+        "hadith_count": 630,
+        "hadith_end": 1432,
+        "hadith_start": 803,
+        "name_en": "Establishing the Prayer and the Sunnah Regarding Them",
+        "nameshort_en": "Establishing the Prayer and the Sunnah Regarding Them"
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 6,
+        "hadith_count": 205,
+        "hadith_end": 1637,
+        "hadith_start": 1433,
+        "name_en": "Chapters Regarding Funerals",
+        "nameshort_en": "Chapters Regarding Funerals"
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 6,
+        "hadith_count": 145,
+        "hadith_end": 1782,
+        "hadith_start": 1638,
+        "name_en": "Fasting",
+        "nameshort_en": "Fasting"
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 6,
+        "hadith_count": 62,
+        "hadith_end": 1844,
+        "hadith_start": 1783,
+        "name_en": "The Chapters Regarding Zakat",
+        "nameshort_en": "Zakat"
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 6,
+        "hadith_count": 175,
+        "hadith_end": 2019,
+        "hadith_start": 1845,
+        "name_en": "The Chapters on Marriage",
+        "nameshort_en": "Marriage"
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 6,
+        "hadith_count": 74,
+        "hadith_end": 2093,
+        "hadith_start": 2020,
+        "name_en": "The Chapters on Divorce",
+        "nameshort_en": "Divorce"
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 6,
+        "hadith_count": 52,
+        "hadith_end": 2145,
+        "hadith_start": 2094,
+        "name_en": "The Chapters on Expiation",
+        "nameshort_en": "Expiation"
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 6,
+        "hadith_count": 176,
+        "hadith_end": 2321,
+        "hadith_start": 2146,
+        "name_en": "The Chapters on Business Transactions",
+        "nameshort_en": "Business Transactions"
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 6,
+        "hadith_count": 67,
+        "hadith_end": 2388,
+        "hadith_start": 2322,
+        "name_en": "The Chapters on Rulings",
+        "nameshort_en": "Rulings"
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 6,
+        "hadith_count": 15,
+        "hadith_end": 2403,
+        "hadith_start": 2389,
+        "name_en": "The Chapters on Gifts",
+        "nameshort_en": "Gifts"
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 6,
+        "hadith_count": 50,
+        "hadith_end": 2453,
+        "hadith_start": 2404,
+        "name_en": "The Chapters on Charity",
+        "nameshort_en": "Charity"
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 6,
+        "hadith_count": 57,
+        "hadith_end": 2510,
+        "hadith_start": 2454,
+        "name_en": "The Chapters on Pawning",
+        "nameshort_en": "Pawning"
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 6,
+        "hadith_count": 11,
+        "hadith_end": 2521,
+        "hadith_start": 2511,
+        "name_en": "The Chapters on Pre-emption",
+        "nameshort_en": "Pre-emption"
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 6,
+        "hadith_count": 10,
+        "hadith_end": 2531,
+        "hadith_start": 2522,
+        "name_en": "The Chapters on Lost Property",
+        "nameshort_en": "Lost Property"
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 6,
+        "hadith_count": 22,
+        "hadith_end": 2553,
+        "hadith_start": 2532,
+        "name_en": "The Chapters on Manumission (of Slaves)",
+        "nameshort_en": "Manumission (of Slaves)"
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 6,
+        "hadith_count": 83,
+        "hadith_end": 2636,
+        "hadith_start": 2554,
+        "name_en": "The Chapters on Legal Punishments",
+        "nameshort_en": "Legal Punishments"
+    },
+    {
+        "BookID": "21",
+        "CollectionID": 6,
+        "hadith_count": 86,
+        "hadith_end": 2722,
+        "hadith_start": 2637,
+        "name_en": "The Chapters on Blood Money",
+        "nameshort_en": "Blood Money"
+    },
+    {
+        "BookID": "22",
+        "CollectionID": 6,
+        "hadith_count": 25,
+        "hadith_end": 2747,
+        "hadith_start": 2723,
+        "name_en": "The Chapters on Wills",
+        "nameshort_en": "Wills"
+    },
+    {
+        "BookID": "23",
+        "CollectionID": 6,
+        "hadith_count": 35,
+        "hadith_end": 2782,
+        "hadith_start": 2748,
+        "name_en": "Chapters on Shares of Inheritance",
+        "nameshort_en": "Shares of Inheritance"
+    },
+    {
+        "BookID": "24",
+        "CollectionID": 6,
+        "hadith_count": 134,
+        "hadith_end": 2916,
+        "hadith_start": 2783,
+        "name_en": "The Chapters on Jihad",
+        "nameshort_en": "Jihad"
+    },
+    {
+        "BookID": "25",
+        "CollectionID": 6,
+        "hadith_count": 247,
+        "hadith_end": 3163,
+        "hadith_start": 2917,
+        "name_en": "Chapters on Hajj Rituals",
+        "nameshort_en": "Hajj Rituals"
+    },
+    {
+        "BookID": "26",
+        "CollectionID": 6,
+        "hadith_count": 43,
+        "hadith_end": 3206,
+        "hadith_start": 3164,
+        "name_en": "Chapters on Sacrifices",
+        "nameshort_en": "Sacrifices"
+    },
+    {
+        "BookID": "27",
+        "CollectionID": 6,
+        "hadith_count": 39,
+        "hadith_end": 3245,
+        "hadith_start": 3207,
+        "name_en": "Chapters on Slaughtering",
+        "nameshort_en": "Slaughtering"
+    },
+    {
+        "BookID": "28",
+        "CollectionID": 6,
+        "hadith_count": 53,
+        "hadith_end": 3298,
+        "hadith_start": 3246,
+        "name_en": "Chapters on Hunting",
+        "nameshort_en": "Hunting"
+    },
+    {
+        "BookID": "29",
+        "CollectionID": 6,
+        "hadith_count": 122,
+        "hadith_end": 3420,
+        "hadith_start": 3299,
+        "name_en": "Chapters on Food",
+        "nameshort_en": "Food"
+    },
+    {
+        "BookID": "30",
+        "CollectionID": 6,
+        "hadith_count": 66,
+        "hadith_end": 3486,
+        "hadith_start": 3421,
+        "name_en": "Chapters on Drinks",
+        "nameshort_en": "Drinks"
+    },
+    {
+        "BookID": "31",
+        "CollectionID": 6,
+        "hadith_count": 114,
+        "hadith_end": 3600,
+        "hadith_start": 3487,
+        "name_en": "Chapters on Medicine",
+        "nameshort_en": "Medicine"
+    },
+    {
+        "BookID": "32",
+        "CollectionID": 6,
+        "hadith_count": 109,
+        "hadith_end": 3709,
+        "hadith_start": 3601,
+        "name_en": "Chapters on Dress",
+        "nameshort_en": "Dress"
+    },
+    {
+        "BookID": "33",
+        "CollectionID": 6,
+        "hadith_count": 171,
+        "hadith_end": 3880,
+        "hadith_start": 3710,
+        "name_en": "Etiquette",
+        "nameshort_en": "Etiquette"
+    },
+    {
+        "BookID": "34",
+        "CollectionID": 6,
+        "hadith_count": 66,
+        "hadith_end": 3946,
+        "hadith_start": 3881,
+        "name_en": "Supplication",
+        "nameshort_en": "Supplication"
+    },
+    {
+        "BookID": "35",
+        "CollectionID": 6,
+        "hadith_count": 34,
+        "hadith_end": 3980,
+        "hadith_start": 3947,
+        "name_en": "Interpretation of Dreams",
+        "nameshort_en": "Interpretation of Dreams"
+    },
+    {
+        "BookID": "36",
+        "CollectionID": 6,
+        "hadith_count": 175,
+        "hadith_end": 4155,
+        "hadith_start": 3981,
+        "name_en": "Tribulations",
+        "nameshort_en": "Tribulations"
+    },
+    {
+        "BookID": "37",
+        "CollectionID": 6,
+        "hadith_count": 247,
+        "hadith_end": 4402,
+        "hadith_start": 4156,
+        "name_en": "Zuhd",
+        "nameshort_en": "Zuhd"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 7,
+        "hadith_count": 31,
+        "hadith_end": 31,
+        "hadith_start": 1,
+        "name_en": "The Times of Prayer",
+        "nameshort_en": "The Times of Prayer"
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 7,
+        "hadith_count": 115,
+        "hadith_end": 146,
+        "hadith_start": 32,
+        "name_en": "Purity",
+        "nameshort_en": "Purity"
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 7,
+        "hadith_count": 75,
+        "hadith_end": 221,
+        "hadith_start": 147,
+        "name_en": "Prayer",
+        "nameshort_en": "Prayer"
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 7,
+        "hadith_count": 3,
+        "hadith_end": 224,
+        "hadith_start": 222,
+        "name_en": "Forgetfulness in Prayer",
+        "nameshort_en": "Forgetfulness in Prayer"
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 7,
+        "hadith_count": 23,
+        "hadith_end": 247,
+        "hadith_start": 225,
+        "name_en": "Jumu'a",
+        "nameshort_en": "Jumu'a"
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 7,
+        "hadith_count": 8,
+        "hadith_end": 255,
+        "hadith_start": 248,
+        "name_en": "Prayer in Ramadan",
+        "nameshort_en": "Prayer in Ramadan"
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 7,
+        "hadith_count": 33,
+        "hadith_end": 288,
+        "hadith_start": 256,
+        "name_en": "Tahajjud",
+        "nameshort_en": "Tahajjud"
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 7,
+        "hadith_count": 39,
+        "hadith_end": 327,
+        "hadith_start": 289,
+        "name_en": "Prayer in Congregation",
+        "nameshort_en": "Prayer in Congregation"
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 7,
+        "hadith_count": 104,
+        "hadith_end": 431,
+        "hadith_start": 328,
+        "name_en": "Shortening the Prayer",
+        "nameshort_en": "Shortening the Prayer"
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 7,
+        "hadith_count": 14,
+        "hadith_end": 445,
+        "hadith_start": 432,
+        "name_en": "The Two 'Ids",
+        "nameshort_en": "The Two 'Ids"
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 7,
+        "hadith_count": 5,
+        "hadith_end": 450,
+        "hadith_start": 446,
+        "name_en": "The Fear Prayer",
+        "nameshort_en": "The Fear Prayer"
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 7,
+        "hadith_count": 4,
+        "hadith_end": 454,
+        "hadith_start": 451,
+        "name_en": "The Eclipse Prayer",
+        "nameshort_en": "The Eclipse Prayer"
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 7,
+        "hadith_count": 6,
+        "hadith_end": 460,
+        "hadith_start": 455,
+        "name_en": "Asking for Rain",
+        "nameshort_en": "Asking for Rain"
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 7,
+        "hadith_count": 16,
+        "hadith_end": 476,
+        "hadith_start": 461,
+        "name_en": "The Qibla",
+        "nameshort_en": "The Qibla"
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 7,
+        "hadith_count": 52,
+        "hadith_end": 528,
+        "hadith_start": 477,
+        "name_en": "The Qur'an",
+        "nameshort_en": "The Qur'an"
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 7,
+        "hadith_count": 59,
+        "hadith_end": 587,
+        "hadith_start": 529,
+        "name_en": "Burials",
+        "nameshort_en": "Burials"
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 7,
+        "hadith_count": 63,
+        "hadith_end": 650,
+        "hadith_start": 588,
+        "name_en": "Zakat",
+        "nameshort_en": "Zakat"
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 7,
+        "hadith_count": 66,
+        "hadith_end": 716,
+        "hadith_start": 651,
+        "name_en": "Fasting",
+        "nameshort_en": "Fasting"
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 7,
+        "hadith_count": 18,
+        "hadith_end": 734,
+        "hadith_start": 717,
+        "name_en": "I'tikaf in Ramadan",
+        "nameshort_en": "I'tikaf in Ramadan"
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 7,
+        "hadith_count": 267,
+        "hadith_end": 1001,
+        "hadith_start": 735,
+        "name_en": "Hajj",
+        "nameshort_en": "Hajj"
+    },
+    {
+        "BookID": "21",
+        "CollectionID": 7,
+        "hadith_count": 54,
+        "hadith_end": 1055,
+        "hadith_start": 1002,
+        "name_en": "Jihad",
+        "nameshort_en": "Jihad"
+    },
+    {
+        "BookID": "22",
+        "CollectionID": 7,
+        "hadith_count": 19,
+        "hadith_end": 1074,
+        "hadith_start": 1056,
+        "name_en": "Vows and Oaths",
+        "nameshort_en": "Vows and Oaths"
+    },
+    {
+        "BookID": "23",
+        "CollectionID": 7,
+        "hadith_count": 13,
+        "hadith_end": 1087,
+        "hadith_start": 1075,
+        "name_en": "Sacrificial Animals",
+        "nameshort_en": "Sacrificial Animals"
+    },
+    {
+        "BookID": "24",
+        "CollectionID": 7,
+        "hadith_count": 10,
+        "hadith_end": 1097,
+        "hadith_start": 1088,
+        "name_en": "Slaughtering Animals",
+        "nameshort_en": "Slaughtering Animals"
+    },
+    {
+        "BookID": "25",
+        "CollectionID": 7,
+        "hadith_count": 19,
+        "hadith_end": 1116,
+        "hadith_start": 1098,
+        "name_en": "Game",
+        "nameshort_en": "Game"
+    },
+    {
+        "BookID": "26",
+        "CollectionID": 7,
+        "hadith_count": 7,
+        "hadith_end": 1123,
+        "hadith_start": 1117,
+        "name_en": "The 'Aqiqa",
+        "nameshort_en": "The 'Aqiqa"
+    },
+    {
+        "BookID": "27",
+        "CollectionID": 7,
+        "hadith_count": 24,
+        "hadith_end": 1147,
+        "hadith_start": 1124,
+        "name_en": "Fara'id",
+        "nameshort_en": "Fara'id"
+    },
+    {
+        "BookID": "28",
+        "CollectionID": 7,
+        "hadith_count": 61,
+        "hadith_end": 1208,
+        "hadith_start": 1148,
+        "name_en": "Marriage",
+        "nameshort_en": "Marriage"
+    },
+    {
+        "BookID": "29",
+        "CollectionID": 7,
+        "hadith_count": 120,
+        "hadith_end": 1328,
+        "hadith_start": 1209,
+        "name_en": "Divorce",
+        "nameshort_en": "Divorce"
+    },
+    {
+        "BookID": "30",
+        "CollectionID": 7,
+        "hadith_count": 18,
+        "hadith_end": 1346,
+        "hadith_start": 1329,
+        "name_en": "Suckling",
+        "nameshort_en": "Suckling"
+    },
+    {
+        "BookID": "31",
+        "CollectionID": 7,
+        "hadith_count": 103,
+        "hadith_end": 1449,
+        "hadith_start": 1347,
+        "name_en": "Business Transactions",
+        "nameshort_en": "Business Transactions"
+    },
+    {
+        "BookID": "32",
+        "CollectionID": 7,
+        "hadith_count": 16,
+        "hadith_end": 1465,
+        "hadith_start": 1450,
+        "name_en": "Qirad",
+        "nameshort_en": "Qirad"
+    },
+    {
+        "BookID": "33",
+        "CollectionID": 7,
+        "hadith_count": 3,
+        "hadith_end": 1468,
+        "hadith_start": 1466,
+        "name_en": "Sharecropping",
+        "nameshort_en": "Sharecropping"
+    },
+    {
+        "BookID": "34",
+        "CollectionID": 7,
+        "hadith_count": 5,
+        "hadith_end": 1473,
+        "hadith_start": 1469,
+        "name_en": "Renting Land",
+        "nameshort_en": "Renting Land"
+    },
+    {
+        "BookID": "35",
+        "CollectionID": 7,
+        "hadith_count": 5,
+        "hadith_end": 1478,
+        "hadith_start": 1474,
+        "name_en": "Pre-emption in Property",
+        "nameshort_en": "Pre-emption in Property"
+    },
+    {
+        "BookID": "36",
+        "CollectionID": 7,
+        "hadith_count": 72,
+        "hadith_end": 1550,
+        "hadith_start": 1479,
+        "name_en": "Judgements",
+        "nameshort_en": "Judgements"
+    },
+    {
+        "BookID": "37",
+        "CollectionID": 7,
+        "hadith_count": 13,
+        "hadith_end": 1563,
+        "hadith_start": 1551,
+        "name_en": "Wills and Testaments",
+        "nameshort_en": "Wills and Testaments"
+    },
+    {
+        "BookID": "38",
+        "CollectionID": 7,
+        "hadith_count": 28,
+        "hadith_end": 1591,
+        "hadith_start": 1564,
+        "name_en": "Setting Free and Wala'",
+        "nameshort_en": "Setting Free and Wala'"
+    },
+    {
+        "BookID": "39",
+        "CollectionID": 7,
+        "hadith_count": 15,
+        "hadith_end": 1606,
+        "hadith_start": 1592,
+        "name_en": "The Mukatab",
+        "nameshort_en": "The Mukatab"
+    },
+    {
+        "BookID": "40",
+        "CollectionID": 7,
+        "hadith_count": 8,
+        "hadith_end": 1614,
+        "hadith_start": 1607,
+        "name_en": "Hudud",
+        "nameshort_en": "Hudud"
+    },
+    {
+        "BookID": "41",
+        "CollectionID": 7,
+        "hadith_count": 37,
+        "hadith_end": 1651,
+        "hadith_start": 1615,
+        "name_en": "The Mudabbar",
+        "nameshort_en": "The Mudabbar"
+    },
+    {
+        "BookID": "42",
+        "CollectionID": 7,
+        "hadith_count": 20,
+        "hadith_end": 1671,
+        "hadith_start": 1652,
+        "name_en": "Drinks",
+        "nameshort_en": "Drinks"
+    },
+    {
+        "BookID": "43",
+        "CollectionID": 7,
+        "hadith_count": 45,
+        "hadith_end": 1716,
+        "hadith_start": 1672,
+        "name_en": "Blood-Money",
+        "nameshort_en": "Blood-Money"
+    },
+    {
+        "BookID": "44",
+        "CollectionID": 7,
+        "hadith_count": 6,
+        "hadith_end": 1722,
+        "hadith_start": 1717,
+        "name_en": "The Oath of Qasama",
+        "nameshort_en": "The Oath of Qasama"
+    },
+    {
+        "BookID": "45",
+        "CollectionID": 7,
+        "hadith_count": 25,
+        "hadith_end": 1747,
+        "hadith_start": 1723,
+        "name_en": "Madina",
+        "nameshort_en": "Madina"
+    },
+    {
+        "BookID": "46",
+        "CollectionID": 7,
+        "hadith_count": 10,
+        "hadith_end": 1757,
+        "hadith_start": 1748,
+        "name_en": "The Decree",
+        "nameshort_en": "The Decree"
+    },
+    {
+        "BookID": "47",
+        "CollectionID": 7,
+        "hadith_count": 18,
+        "hadith_end": 1775,
+        "hadith_start": 1758,
+        "name_en": "Good Character",
+        "nameshort_en": "Good Character"
+    },
+    {
+        "BookID": "48",
+        "CollectionID": 7,
+        "hadith_count": 20,
+        "hadith_end": 1795,
+        "hadith_start": 1776,
+        "name_en": "Dress",
+        "nameshort_en": "Dress"
+    },
+    {
+        "BookID": "49",
+        "CollectionID": 7,
+        "hadith_count": 42,
+        "hadith_end": 1837,
+        "hadith_start": 1796,
+        "name_en": "The Description of the Prophet (ﷺ)",
+        "nameshort_en": "The Description of the Prophet (ﷺ)"
+    },
+    {
+        "BookID": "50",
+        "CollectionID": 7,
+        "hadith_count": 19,
+        "hadith_end": 1856,
+        "hadith_start": 1838,
+        "name_en": "The Evil Eye",
+        "nameshort_en": "The Evil Eye"
+    },
+    {
+        "BookID": "51",
+        "CollectionID": 7,
+        "hadith_count": 17,
+        "hadith_end": 1873,
+        "hadith_start": 1857,
+        "name_en": "Hair",
+        "nameshort_en": "Hair"
+    },
+    {
+        "BookID": "52",
+        "CollectionID": 7,
+        "hadith_count": 8,
+        "hadith_end": 1881,
+        "hadith_start": 1874,
+        "name_en": "Visions",
+        "nameshort_en": "Visions"
+    },
+    {
+        "BookID": "53",
+        "CollectionID": 7,
+        "hadith_count": 8,
+        "hadith_end": 1889,
+        "hadith_start": 1882,
+        "name_en": "Greetings",
+        "nameshort_en": "Greetings"
+    },
+    {
+        "BookID": "54",
+        "CollectionID": 7,
+        "hadith_count": 45,
+        "hadith_end": 1934,
+        "hadith_start": 1890,
+        "name_en": "General Subjects",
+        "nameshort_en": "General Subjects"
+    },
+    {
+        "BookID": "55",
+        "CollectionID": 7,
+        "hadith_count": 3,
+        "hadith_end": 1937,
+        "hadith_start": 1935,
+        "name_en": "The Oath of Allegiance",
+        "nameshort_en": "The Oath of Allegiance"
+    },
+    {
+        "BookID": "56",
+        "CollectionID": 7,
+        "hadith_count": 28,
+        "hadith_end": 1965,
+        "hadith_start": 1938,
+        "name_en": "Speech",
+        "nameshort_en": "Speech"
+    },
+    {
+        "BookID": "57",
+        "CollectionID": 7,
+        "hadith_count": 2,
+        "hadith_end": 1967,
+        "hadith_start": 1966,
+        "name_en": "Jahannam",
+        "nameshort_en": "Jahannam"
+    },
+    {
+        "BookID": "58",
+        "CollectionID": 7,
+        "hadith_count": 15,
+        "hadith_end": 1982,
+        "hadith_start": 1968,
+        "name_en": "Sadaqa",
+        "nameshort_en": "Sadaqa"
+    },
+    {
+        "BookID": "59",
+        "CollectionID": 7,
+        "hadith_count": 1,
+        "hadith_end": 1983,
+        "hadith_start": 1983,
+        "name_en": "Knowledge",
+        "nameshort_en": "Knowledge"
+    },
+    {
+        "BookID": "60",
+        "CollectionID": 7,
+        "hadith_count": 1,
+        "hadith_end": 1984,
+        "hadith_start": 1984,
+        "name_en": "The Supplication of the Unjustly Wronged",
+        "nameshort_en": "The Supplication of the Unjustly Wronged"
+    },
+    {
+        "BookID": "61",
+        "CollectionID": 7,
+        "hadith_count": 1,
+        "hadith_end": 1985,
+        "hadith_start": 1985,
+        "name_en": "The Names of the Prophet (ﷺ)",
+        "nameshort_en": "The Names of the Prophet (ﷺ)"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 8,
+        "hadith_count": 81,
+        "hadith_end": 81,
+        "hadith_start": 1,
+        "name_en": "Musnad Abu Bakr",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 8,
+        "hadith_count": 309,
+        "hadith_end": 390,
+        "hadith_start": 82,
+        "name_en": "Musnad Umar ibn Khattab",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 8,
+        "hadith_count": 9,
+        "hadith_end": 399,
+        "hadith_start": 391,
+        "name_en": "The Hadeeth of Saqeefah",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 8,
+        "hadith_count": 162,
+        "hadith_end": 561,
+        "hadith_start": 400,
+        "name_en": "Musnad Uthman ibn Affan",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 8,
+        "hadith_count": 819,
+        "hadith_end": 1380,
+        "hadith_start": 562,
+        "name_en": "Musnad 'Ali Ibn Abi Talib",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 8,
+        "hadith_count": 24,
+        "hadith_end": 1404,
+        "hadith_start": 1381,
+        "name_en": "Musnad of Abu Muhammad Talhah bin 'Ubaidullah",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 8,
+        "hadith_count": 34,
+        "hadith_end": 1438,
+        "hadith_start": 1405,
+        "name_en": "The Musnad of az-Zubair bin al-'Awwam",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 8,
+        "hadith_count": 186,
+        "hadith_end": 1624,
+        "hadith_start": 1439,
+        "name_en": "Musnad Abu Ishaq Sa'd bin Abi Waqqas",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 8,
+        "hadith_count": 30,
+        "hadith_end": 1654,
+        "hadith_start": 1625,
+        "name_en": "Musnad of Sa'eed bin Zaid bin 'Amr bin Nufail",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 8,
+        "hadith_count": 35,
+        "hadith_end": 1689,
+        "hadith_start": 1655,
+        "name_en": "Musnad of 'Abdur-Rahman bin 'Awf az-Zuhri",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 8,
+        "hadith_count": 12,
+        "hadith_end": 1701,
+        "hadith_start": 1690,
+        "name_en": "Hadeeth of Abu 'Ubaidah bin al-Jarrah, whose name was 'Amir bin Abdullah",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 8,
+        "hadith_count": 12,
+        "hadith_end": 1713,
+        "hadith_start": 1702,
+        "name_en": "The Hadeeth of 'Abdur-Rahman bin Abi Bakr",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 8,
+        "hadith_count": 1,
+        "hadith_end": 1714,
+        "hadith_start": 1714,
+        "name_en": "Hadeeth of Zaid bin Kharijah",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 8,
+        "hadith_count": 1,
+        "hadith_end": 1715,
+        "hadith_start": 1715,
+        "name_en": "The Hadeeth of al-Harith bin Khazamah",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 8,
+        "hadith_count": 2,
+        "hadith_end": 1717,
+        "hadith_start": 1716,
+        "name_en": "Hadeeth of Sa'd, the freed slave of Abu Bakr",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 8,
+        "hadith_count": 12,
+        "hadith_end": 1729,
+        "hadith_start": 1718,
+        "name_en": "The Musnad of Ahlul-Bayt & Hadeeth of al-Hasan bin 'Ali bin Abu Talib",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 8,
+        "hadith_count": 8,
+        "hadith_end": 1737,
+        "hadith_start": 1730,
+        "name_en": "The hadeeth of Al-Husain bin 'Ali",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 8,
+        "hadith_count": 2,
+        "hadith_end": 1739,
+        "hadith_start": 1738,
+        "name_en": "Hadeeth of 'Aqeel bin Abi Talib",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 8,
+        "hadith_count": 1,
+        "hadith_end": 1740,
+        "hadith_start": 1740,
+        "name_en": "Hadeeth of Ja'far bin Abi Talib & It is Hadeeth of al-Hijrah (migration)",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 8,
+        "hadith_count": 22,
+        "hadith_end": 1762,
+        "hadith_start": 1741,
+        "name_en": "Hadeeth of 'Abdullah bin Ja'far bin Abi Talib",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "21",
+        "CollectionID": 8,
+        "hadith_count": 27,
+        "hadith_end": 1789,
+        "hadith_start": 1763,
+        "name_en": "Musnad Bani Hashim (Hadeeth of al-'Abbas bin 'Abdul-Muttalib from the  Prophet)",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "22",
+        "CollectionID": 8,
+        "hadith_count": 44,
+        "hadith_end": 1833,
+        "hadith_start": 1790,
+        "name_en": "Musnad of al-Fadl bin 'Abbas & narrating from the Prophet",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "23",
+        "CollectionID": 8,
+        "hadith_count": 2,
+        "hadith_end": 1835,
+        "hadith_start": 1834,
+        "name_en": "Hadeeth of Tammam bin al-'Abbas bin 'Abdul-Muttalib from the Prophet",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "24",
+        "CollectionID": 8,
+        "hadith_count": 1,
+        "hadith_end": 1836,
+        "hadith_start": 1836,
+        "name_en": "Hadeeth of 'Ubaidullah bin al-'Abbas & from the Prophet",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "25",
+        "CollectionID": 8,
+        "hadith_count": 1689,
+        "hadith_end": 3525,
+        "hadith_start": 1837,
+        "name_en": "Musnad of 'Abdullah bin al-'Abbas bin 'Abdul-Muttalib from the Prophet",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "26",
+        "CollectionID": 8,
+        "hadith_count": 821,
+        "hadith_end": 4346,
+        "hadith_start": 3526,
+        "name_en": "Musnad of Abdullah bin Mas'ood",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 9,
+        "hadith_count": 680,
+        "hadith_end": 680,
+        "hadith_start": 1,
+        "name_en": "The Book of Miscellany",
+        "nameshort_en": "Miscellany"
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 9,
+        "hadith_count": 47,
+        "hadith_end": 727,
+        "hadith_start": 681,
+        "name_en": "The Book of Good Manners",
+        "nameshort_en": "Good Manners"
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 9,
+        "hadith_count": 51,
+        "hadith_end": 778,
+        "hadith_start": 728,
+        "name_en": "The Book About the Etiquette of Eating",
+        "nameshort_en": "Etiquette of Eating"
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 9,
+        "hadith_count": 35,
+        "hadith_end": 813,
+        "hadith_start": 779,
+        "name_en": "The Book of Dress",
+        "nameshort_en": "Dress"
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 9,
+        "hadith_count": 31,
+        "hadith_end": 844,
+        "hadith_start": 814,
+        "name_en": "The Book of the Etiquette of Sleeping, Lying and Sitting etc",
+        "nameshort_en": "Etiquette of Sleeping, Lying and Sitting etc"
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 9,
+        "hadith_count": 49,
+        "hadith_end": 893,
+        "hadith_start": 845,
+        "name_en": "The Book of Greetings",
+        "nameshort_en": "Greetings"
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 9,
+        "hadith_count": 61,
+        "hadith_end": 954,
+        "hadith_start": 894,
+        "name_en": "The Book of Visiting the Sick",
+        "nameshort_en": "Visiting the Sick"
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 9,
+        "hadith_count": 35,
+        "hadith_end": 989,
+        "hadith_start": 955,
+        "name_en": "The Book of Etiquette of Traveling",
+        "nameshort_en": "Etiquette of Traveling"
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 9,
+        "hadith_count": 277,
+        "hadith_end": 1266,
+        "hadith_start": 990,
+        "name_en": "The Book of Virtues",
+        "nameshort_en": "Virtues"
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 9,
+        "hadith_count": 3,
+        "hadith_end": 1269,
+        "hadith_start": 1267,
+        "name_en": "The Book of I'tikaf",
+        "nameshort_en": "I'tikaf"
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 9,
+        "hadith_count": 14,
+        "hadith_end": 1283,
+        "hadith_start": 1270,
+        "name_en": "The Book of Hajj",
+        "nameshort_en": "Hajj"
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 9,
+        "hadith_count": 91,
+        "hadith_end": 1374,
+        "hadith_start": 1284,
+        "name_en": "The Book of Jihad",
+        "nameshort_en": "Jihad"
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 9,
+        "hadith_count": 17,
+        "hadith_end": 1391,
+        "hadith_start": 1375,
+        "name_en": "The Book of Knowledge",
+        "nameshort_en": "Knowledge"
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 9,
+        "hadith_count": 4,
+        "hadith_end": 1395,
+        "hadith_start": 1392,
+        "name_en": "The Book of Praise and Gratitude to Allah",
+        "nameshort_en": "Praise and Gratitude to Allah"
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 9,
+        "hadith_count": 11,
+        "hadith_end": 1406,
+        "hadith_start": 1396,
+        "name_en": "The Book of Supplicating Allah to Exalt the Mention of Allah's Messenger",
+        "nameshort_en": "Supplicating Allah to Exalt the Mention of Allah's Messenger"
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 9,
+        "hadith_count": 57,
+        "hadith_end": 1463,
+        "hadith_start": 1407,
+        "name_en": "The Book of the Remembrance of Allah",
+        "nameshort_en": "Remembrance of Allah"
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 9,
+        "hadith_count": 46,
+        "hadith_end": 1509,
+        "hadith_start": 1464,
+        "name_en": "The Book of Du'a (Supplications)",
+        "nameshort_en": "Du'a (Supplications)"
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 9,
+        "hadith_count": 297,
+        "hadith_end": 1806,
+        "hadith_start": 1510,
+        "name_en": "The Book of the Prohibited actions",
+        "nameshort_en": "Prohibited actions"
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 9,
+        "hadith_count": 61,
+        "hadith_end": 1867,
+        "hadith_start": 1807,
+        "name_en": "The Book of Miscellaneous ahadith of Significant Values",
+        "nameshort_en": "Miscellaneous ahadith of Significant Values"
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 9,
+        "hadith_count": 28,
+        "hadith_end": 1895,
+        "hadith_start": 1868,
+        "name_en": "The Book of Forgiveness",
+        "nameshort_en": "Forgiveness"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 10,
+        "hadith_count": 15,
+        "hadith_end": 15,
+        "hadith_start": 1,
+        "name_en": "The Noble Features Of Rasoolullah",
+        "nameshort_en": "The Noble Features Of Rasoolullah"
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 10,
+        "hadith_count": 8,
+        "hadith_end": 23,
+        "hadith_start": 16,
+        "name_en": "Seal Of Nubuwwah (Prophethood) Of Rasoolullah",
+        "nameshort_en": "Seal Of Nubuwwah (Prophethood) Of Rasoolullah"
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 10,
+        "hadith_count": 8,
+        "hadith_end": 31,
+        "hadith_start": 24,
+        "name_en": "The Mubarak Hair Of Rasoolullah",
+        "nameshort_en": "The Mubarak Hair Of Rasoolullah"
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 10,
+        "hadith_count": 5,
+        "hadith_end": 36,
+        "hadith_start": 32,
+        "name_en": "The Combing Of The Hair Of Rasoolullah",
+        "nameshort_en": "The Combing Of The Hair Of Rasoolullah"
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 10,
+        "hadith_count": 8,
+        "hadith_end": 44,
+        "hadith_start": 37,
+        "name_en": "Appearing Of The White Hair Of Rasoolullah",
+        "nameshort_en": "Appearing Of The White Hair Of Rasoolullah"
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 10,
+        "hadith_count": 4,
+        "hadith_end": 48,
+        "hadith_start": 45,
+        "name_en": "Rasoolullah Using a Dye",
+        "nameshort_en": "Rasoolullah Using a Dye"
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 10,
+        "hadith_count": 5,
+        "hadith_end": 53,
+        "hadith_start": 49,
+        "name_en": "Kuhl Of Rasoolullah",
+        "nameshort_en": "Kuhl Of Rasoolullah"
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 10,
+        "hadith_count": 17,
+        "hadith_end": 70,
+        "hadith_start": 54,
+        "name_en": "The Dressing Of Rasoolullah",
+        "nameshort_en": "The Dressing Of Rasoolullah"
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 10,
+        "hadith_count": 2,
+        "hadith_end": 72,
+        "hadith_start": 71,
+        "name_en": "The Standard of Living of Rasoolullah",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 10,
+        "hadith_count": 2,
+        "hadith_end": 74,
+        "hadith_start": 73,
+        "name_en": "The Khuff (Leather Socks) Of Rasoolullah",
+        "nameshort_en": "The Khuff (Leather Socks) Of Rasoolullah"
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 10,
+        "hadith_count": 12,
+        "hadith_end": 86,
+        "hadith_start": 75,
+        "name_en": "The Shoes Of Rasoolullah",
+        "nameshort_en": "The Shoes Of Rasoolullah"
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 10,
+        "hadith_count": 8,
+        "hadith_end": 94,
+        "hadith_start": 87,
+        "name_en": "The Mubarak Ring Of Rasoolullah",
+        "nameshort_en": "The Mubarak Ring Of Rasoolullah"
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 10,
+        "hadith_count": 10,
+        "hadith_end": 104,
+        "hadith_start": 95,
+        "name_en": "Stating That Rasoolullah Wore The Ring On His Right Hand",
+        "nameshort_en": "The Ring On His Right Hand"
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 10,
+        "hadith_count": 5,
+        "hadith_end": 109,
+        "hadith_start": 105,
+        "name_en": "The Sword Of Rasoolullah",
+        "nameshort_en": "The Sword Of Rasoolullah"
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 10,
+        "hadith_count": 2,
+        "hadith_end": 111,
+        "hadith_start": 110,
+        "name_en": "The Armor Of Rasoolullah",
+        "nameshort_en": "The Armor Of Rasoolullah"
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 10,
+        "hadith_count": 2,
+        "hadith_end": 113,
+        "hadith_start": 112,
+        "name_en": "The Helmet Of Rasoolullah",
+        "nameshort_en": "The Helmet Of Rasoolullah"
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 10,
+        "hadith_count": 5,
+        "hadith_end": 118,
+        "hadith_start": 114,
+        "name_en": "The Turban Of Rasoolullah",
+        "nameshort_en": "The Turban Of Rasoolullah"
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 10,
+        "hadith_count": 4,
+        "hadith_end": 122,
+        "hadith_start": 119,
+        "name_en": "The Lungi Of Rasoolullah",
+        "nameshort_en": "The Lungi Of Rasoolullah"
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 10,
+        "hadith_count": 3,
+        "hadith_end": 125,
+        "hadith_start": 123,
+        "name_en": "The Walking Of Rasoolullah",
+        "nameshort_en": "The Walking Of Rasoolullah"
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 10,
+        "hadith_count": 1,
+        "hadith_end": 126,
+        "hadith_start": 126,
+        "name_en": "The Qinaa Of Rasoolullah",
+        "nameshort_en": "The Qinaa Of Rasoolullah"
+    },
+    {
+        "BookID": "21",
+        "CollectionID": 10,
+        "hadith_count": 3,
+        "hadith_end": 129,
+        "hadith_start": 127,
+        "name_en": "The Sitting Of Rasoolullah",
+        "nameshort_en": "The Sitting Of Rasoolullah"
+    },
+    {
+        "BookID": "22",
+        "CollectionID": 10,
+        "hadith_count": 5,
+        "hadith_end": 134,
+        "hadith_start": 130,
+        "name_en": "The Pillow Of Rasoolullah",
+        "nameshort_en": "The Pillow Of Rasoolullah"
+    },
+    {
+        "BookID": "23",
+        "CollectionID": 10,
+        "hadith_count": 2,
+        "hadith_end": 136,
+        "hadith_start": 135,
+        "name_en": "Rasoolullah Leaning On Something Other Than a Pillow",
+        "nameshort_en": "Leaning On Something Other Than a Pillow"
+    },
+    {
+        "BookID": "24",
+        "CollectionID": 10,
+        "hadith_count": 6,
+        "hadith_end": 142,
+        "hadith_start": 137,
+        "name_en": "Description Of The Eating Of Rasoolullah",
+        "nameshort_en": "Description Of The Eating Of Rasoolullah"
+    },
+    {
+        "BookID": "25",
+        "CollectionID": 10,
+        "hadith_count": 8,
+        "hadith_end": 150,
+        "hadith_start": 143,
+        "name_en": "The Bread Of Rasoolullah",
+        "nameshort_en": "The Bread Of Rasoolullah"
+    },
+    {
+        "BookID": "26",
+        "CollectionID": 10,
+        "hadith_count": 34,
+        "hadith_end": 184,
+        "hadith_start": 151,
+        "name_en": "Description Of The Curry Of Rasoolullah",
+        "nameshort_en": "Description Of The Curry Of Rasoolullah"
+    },
+    {
+        "BookID": "27",
+        "CollectionID": 10,
+        "hadith_count": 3,
+        "hadith_end": 187,
+        "hadith_start": 185,
+        "name_en": "Rasoolullah Performing Wudu At The Time Of Eating",
+        "nameshort_en": "Performing Wudu At The Time Of Eating"
+    },
+    {
+        "BookID": "28",
+        "CollectionID": 10,
+        "hadith_count": 7,
+        "hadith_end": 194,
+        "hadith_start": 188,
+        "name_en": "The Words That Of Rasoolullah Said Before and After Eating",
+        "nameshort_en": "The Words That Of Rasoolullah Said Before and After Eating"
+    },
+    {
+        "BookID": "29",
+        "CollectionID": 10,
+        "hadith_count": 2,
+        "hadith_end": 196,
+        "hadith_start": 195,
+        "name_en": "The Cup Of Rasoolullah",
+        "nameshort_en": "The Cup Of Rasoolullah"
+    },
+    {
+        "BookID": "30",
+        "CollectionID": 10,
+        "hadith_count": 7,
+        "hadith_end": 203,
+        "hadith_start": 197,
+        "name_en": "The Fruits Eaten By Rasoolullah",
+        "nameshort_en": "The Fruits Eaten By Rasoolullah"
+    },
+    {
+        "BookID": "31",
+        "CollectionID": 10,
+        "hadith_count": 2,
+        "hadith_end": 205,
+        "hadith_start": 204,
+        "name_en": "Description Of The Things Rasoolullah Drank",
+        "nameshort_en": "Description Of The Things Rasoolullah Drank"
+    },
+    {
+        "BookID": "32",
+        "CollectionID": 10,
+        "hadith_count": 10,
+        "hadith_end": 215,
+        "hadith_start": 206,
+        "name_en": "Hadith Describing The Manner Rasoolullah Drank",
+        "nameshort_en": "Hadith Describing The Manner Rasoolullah Drank"
+    },
+    {
+        "BookID": "33",
+        "CollectionID": 10,
+        "hadith_count": 7,
+        "hadith_end": 222,
+        "hadith_start": 216,
+        "name_en": "Rasoolullah Using 'Itr",
+        "nameshort_en": "Rasoolullah Using 'Itr"
+    },
+    {
+        "BookID": "34",
+        "CollectionID": 10,
+        "hadith_count": 3,
+        "hadith_end": 225,
+        "hadith_start": 223,
+        "name_en": "The Speech Of rasoolullah",
+        "nameshort_en": "The Speech Of rasoolullah"
+    },
+    {
+        "BookID": "35",
+        "CollectionID": 10,
+        "hadith_count": 9,
+        "hadith_end": 234,
+        "hadith_start": 226,
+        "name_en": "The Laughing Of Rasoolullah",
+        "nameshort_en": "The Laughing Of Rasoolullah"
+    },
+    {
+        "BookID": "36",
+        "CollectionID": 10,
+        "hadith_count": 6,
+        "hadith_end": 240,
+        "hadith_start": 235,
+        "name_en": "Description Of The Joking Of Rasoolullah",
+        "nameshort_en": "Description Of The Joking Of Rasoolullah"
+    },
+    {
+        "BookID": "37",
+        "CollectionID": 10,
+        "hadith_count": 11,
+        "hadith_end": 251,
+        "hadith_start": 241,
+        "name_en": "Description Of The Saying Of Rasoolullah On Poetry",
+        "nameshort_en": "Description Of The Saying Of Rasoolullah On Poetry"
+    },
+    {
+        "BookID": "38",
+        "CollectionID": 10,
+        "hadith_count": 3,
+        "hadith_end": 254,
+        "hadith_start": 252,
+        "name_en": "Story Telling Of Rasoolullah At Night",
+        "nameshort_en": "Story Telling Of Rasoolullah At Night"
+    },
+    {
+        "BookID": "39",
+        "CollectionID": 10,
+        "hadith_count": 7,
+        "hadith_end": 261,
+        "hadith_start": 255,
+        "name_en": "The Sleeping Of Rasoolullah",
+        "nameshort_en": "The Sleeping Of Rasoolullah"
+    },
+    {
+        "BookID": "40",
+        "CollectionID": 10,
+        "hadith_count": 27,
+        "hadith_end": 288,
+        "hadith_start": 262,
+        "name_en": "Worship And Devotion Of Rasoolullah",
+        "nameshort_en": "Worship And Devotion Of Rasoolullah"
+    },
+    {
+        "BookID": "41",
+        "CollectionID": 10,
+        "hadith_count": 9,
+        "hadith_end": 297,
+        "hadith_start": 289,
+        "name_en": "Salaatul Duha (Chaast Prayers)",
+        "nameshort_en": "Salaatul Duha (Chaast Prayers)"
+    },
+    {
+        "BookID": "42",
+        "CollectionID": 10,
+        "hadith_count": 1,
+        "hadith_end": 298,
+        "hadith_start": 298,
+        "name_en": "Sayyidina Rasoolullah Performing Nawaafil At Home",
+        "nameshort_en": "Sayyidina Rasoolullah Performing Nawaafil At Home"
+    },
+    {
+        "BookID": "43",
+        "CollectionID": 10,
+        "hadith_count": 16,
+        "hadith_end": 314,
+        "hadith_start": 299,
+        "name_en": "The Fasting Of Sayyidina Rasoolullah",
+        "nameshort_en": "The Fasting Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "44",
+        "CollectionID": 10,
+        "hadith_count": 8,
+        "hadith_end": 322,
+        "hadith_start": 315,
+        "name_en": "The Recital Of Sayyidina Rasoolullah",
+        "nameshort_en": "The Recital Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "45",
+        "CollectionID": 10,
+        "hadith_count": 6,
+        "hadith_end": 328,
+        "hadith_start": 323,
+        "name_en": "The Weeping Of Sayyidina Rasoolullah",
+        "nameshort_en": "The Weeping Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "46",
+        "CollectionID": 10,
+        "hadith_count": 2,
+        "hadith_end": 330,
+        "hadith_start": 329,
+        "name_en": "Narrations Of The Bed Of Sayyidina Rasoolullah",
+        "nameshort_en": "Narrations Of The Bed Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "47",
+        "CollectionID": 10,
+        "hadith_count": 13,
+        "hadith_end": 343,
+        "hadith_start": 331,
+        "name_en": "The Humbleness Of Sayyidina Rasoolullah",
+        "nameshort_en": "The Humbleness Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "48",
+        "CollectionID": 10,
+        "hadith_count": 15,
+        "hadith_end": 358,
+        "hadith_start": 344,
+        "name_en": "Noble Character And Habits Of Sayyidina Rasoolullah",
+        "nameshort_en": "Noble Character And Habits Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "49",
+        "CollectionID": 10,
+        "hadith_count": 2,
+        "hadith_end": 360,
+        "hadith_start": 359,
+        "name_en": "Modesty Of Sayyidina Rasoolullah",
+        "nameshort_en": "Modesty Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "50",
+        "CollectionID": 10,
+        "hadith_count": 6,
+        "hadith_end": 366,
+        "hadith_start": 361,
+        "name_en": "Hijaamah (Cupping-Cautering) Of Sayyidina Rasoolullah",
+        "nameshort_en": "Hijaamah (Cupping-Cautering) Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "51",
+        "CollectionID": 10,
+        "hadith_count": 3,
+        "hadith_end": 369,
+        "hadith_start": 367,
+        "name_en": "The Living Of Sayyidina Rasoolullah",
+        "nameshort_en": "The Living Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "52",
+        "CollectionID": 10,
+        "hadith_count": 11,
+        "hadith_end": 380,
+        "hadith_start": 370,
+        "name_en": "The Names Of Sayyidina Rasoolullah",
+        "nameshort_en": "The Names Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "53",
+        "CollectionID": 10,
+        "hadith_count": 7,
+        "hadith_end": 387,
+        "hadith_start": 381,
+        "name_en": "The Noble Age Of Sayyidina Rasoolullah",
+        "nameshort_en": "The Noble Age Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "54",
+        "CollectionID": 10,
+        "hadith_count": 14,
+        "hadith_end": 401,
+        "hadith_start": 388,
+        "name_en": "The Death Of Sayyidina Rasoolullah",
+        "nameshort_en": "The Death Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "55",
+        "CollectionID": 10,
+        "hadith_count": 7,
+        "hadith_end": 408,
+        "hadith_start": 402,
+        "name_en": "The Legacy Of Sayyidina Rasoolullah",
+        "nameshort_en": "The Legacy Of Sayyidina Rasoolullah"
+    },
+    {
+        "BookID": "56",
+        "CollectionID": 10,
+        "hadith_count": 10,
+        "hadith_end": 418,
+        "hadith_start": 409,
+        "name_en": "The Seeing Of Rasoolullah In a Dream",
+        "nameshort_en": "The Seeing Of Rasoolullah In a Dream"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 11,
+        "hadith_count": 46,
+        "hadith_end": 46,
+        "hadith_start": 1,
+        "name_en": "Parents",
+        "nameshort_en": "Parents"
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 11,
+        "hadith_count": 27,
+        "hadith_end": 73,
+        "hadith_start": 47,
+        "name_en": "Ties of Kinship",
+        "nameshort_en": "Ties of Kinship"
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 11,
+        "hadith_count": 2,
+        "hadith_end": 75,
+        "hadith_start": 74,
+        "name_en": "Mawlas",
+        "nameshort_en": "Mawlas"
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 11,
+        "hadith_count": 8,
+        "hadith_end": 83,
+        "hadith_start": 76,
+        "name_en": "Looking After Girls",
+        "nameshort_en": "Looking After Girls"
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 11,
+        "hadith_count": 17,
+        "hadith_end": 100,
+        "hadith_start": 84,
+        "name_en": "Looking After Children",
+        "nameshort_en": "Looking After Children"
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 11,
+        "hadith_count": 28,
+        "hadith_end": 128,
+        "hadith_start": 101,
+        "name_en": "Neighbours",
+        "nameshort_en": "Neighbours"
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 11,
+        "hadith_count": 14,
+        "hadith_end": 142,
+        "hadith_start": 129,
+        "name_en": "Generosity and Orphans",
+        "nameshort_en": "Generosity and Orphans"
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 11,
+        "hadith_count": 13,
+        "hadith_end": 155,
+        "hadith_start": 143,
+        "name_en": "Children Dying",
+        "nameshort_en": "Children Dying"
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 11,
+        "hadith_count": 56,
+        "hadith_end": 211,
+        "hadith_start": 156,
+        "name_en": "Being a Master",
+        "nameshort_en": "Being a Master"
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 11,
+        "hadith_count": 9,
+        "hadith_end": 220,
+        "hadith_start": 212,
+        "name_en": "Responsibility",
+        "nameshort_en": "Responsibility"
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 11,
+        "hadith_count": 17,
+        "hadith_end": 237,
+        "hadith_start": 221,
+        "name_en": "Correctness",
+        "nameshort_en": "Correctness"
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 11,
+        "hadith_count": 18,
+        "hadith_end": 255,
+        "hadith_start": 238,
+        "name_en": "Dealing with people cheerfully",
+        "nameshort_en": "Dealing with people cheerfully"
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 11,
+        "hadith_count": 4,
+        "hadith_end": 259,
+        "hadith_start": 256,
+        "name_en": "Consulation",
+        "nameshort_en": "Consulation"
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 11,
+        "hadith_count": 49,
+        "hadith_end": 308,
+        "hadith_start": 260,
+        "name_en": "Dealings with people and good character",
+        "nameshort_en": "Dealings with people and good character"
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 11,
+        "hadith_count": 24,
+        "hadith_end": 332,
+        "hadith_start": 309,
+        "name_en": "Cursing and Defamation",
+        "nameshort_en": "Cursing and Defamation"
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 11,
+        "hadith_count": 11,
+        "hadith_end": 343,
+        "hadith_start": 333,
+        "name_en": "Praising People",
+        "nameshort_en": "Praising People"
+    },
+    {
+        "BookID": "17",
+        "CollectionID": 11,
+        "hadith_count": 9,
+        "hadith_end": 352,
+        "hadith_start": 344,
+        "name_en": "Visiting and Guests",
+        "nameshort_en": "Visiting and Guests"
+    },
+    {
+        "BookID": "18",
+        "CollectionID": 11,
+        "hadith_count": 9,
+        "hadith_end": 361,
+        "hadith_start": 353,
+        "name_en": "The Elderly",
+        "nameshort_en": "The Elderly"
+    },
+    {
+        "BookID": "19",
+        "CollectionID": 11,
+        "hadith_count": 10,
+        "hadith_end": 371,
+        "hadith_start": 362,
+        "name_en": "Children",
+        "nameshort_en": "Children"
+    },
+    {
+        "BookID": "20",
+        "CollectionID": 11,
+        "hadith_count": 13,
+        "hadith_end": 384,
+        "hadith_start": 372,
+        "name_en": "Mercy",
+        "nameshort_en": "Mercy"
+    },
+    {
+        "BookID": "21",
+        "CollectionID": 11,
+        "hadith_count": 12,
+        "hadith_end": 396,
+        "hadith_start": 385,
+        "name_en": "Social Behaviour",
+        "nameshort_en": "Social Behaviour"
+    },
+    {
+        "BookID": "22",
+        "CollectionID": 11,
+        "hadith_count": 18,
+        "hadith_end": 414,
+        "hadith_start": 397,
+        "name_en": "Separation",
+        "nameshort_en": "Separation"
+    },
+    {
+        "BookID": "23",
+        "CollectionID": 11,
+        "hadith_count": 4,
+        "hadith_end": 418,
+        "hadith_start": 415,
+        "name_en": "Advice",
+        "nameshort_en": "Advice"
+    },
+    {
+        "BookID": "24",
+        "CollectionID": 11,
+        "hadith_count": 23,
+        "hadith_end": 441,
+        "hadith_start": 419,
+        "name_en": "Defamation",
+        "nameshort_en": "Defamation"
+    },
+    {
+        "BookID": "25",
+        "CollectionID": 11,
+        "hadith_count": 20,
+        "hadith_end": 461,
+        "hadith_start": 442,
+        "name_en": "Extravagance in Building",
+        "nameshort_en": "Extravagance in Building"
+    },
+    {
+        "BookID": "26",
+        "CollectionID": 11,
+        "hadith_count": 14,
+        "hadith_end": 475,
+        "hadith_start": 462,
+        "name_en": "Compassion",
+        "nameshort_en": "Compassion"
+    },
+    {
+        "BookID": "27",
+        "CollectionID": 11,
+        "hadith_count": 7,
+        "hadith_end": 482,
+        "hadith_start": 476,
+        "name_en": "Attending to this world",
+        "nameshort_en": "Attending to this world"
+    },
+    {
+        "BookID": "28",
+        "CollectionID": 11,
+        "hadith_count": 8,
+        "hadith_end": 490,
+        "hadith_start": 483,
+        "name_en": "Injustice",
+        "nameshort_en": "Injustice"
+    },
+    {
+        "BookID": "29",
+        "CollectionID": 11,
+        "hadith_count": 0,
+        "hadith_end": null,
+        "hadith_start": null,
+        "name_en": "Illness and Visiting those who are ill",
+        "nameshort_en": "Illness and Visiting those who are ill"
+    },
+    {
+        "BookID": "30",
+        "CollectionID": 11,
+        "hadith_count": 66,
+        "hadith_end": 556,
+        "hadith_start": 491,
+        "name_en": "General Behaviour",
+        "nameshort_en": "General Behaviour"
+    },
+    {
+        "BookID": "31",
+        "CollectionID": 11,
+        "hadith_count": 0,
+        "hadith_end": null,
+        "hadith_start": null,
+        "name_en": "Supplication",
+        "nameshort_en": "Supplication"
+    },
+    {
+        "BookID": "32",
+        "CollectionID": 11,
+        "hadith_count": 8,
+        "hadith_end": 564,
+        "hadith_start": 557,
+        "name_en": "Guests and Spending",
+        "nameshort_en": "Guests and Spending"
+    },
+    {
+        "BookID": "33",
+        "CollectionID": 11,
+        "hadith_count": 57,
+        "hadith_end": 621,
+        "hadith_start": 565,
+        "name_en": "Speech",
+        "nameshort_en": "Speech"
+    },
+    {
+        "BookID": "34",
+        "CollectionID": 11,
+        "hadith_count": 31,
+        "hadith_end": 652,
+        "hadith_start": 622,
+        "name_en": "Names",
+        "nameshort_en": "Names"
+    },
+    {
+        "BookID": "35",
+        "CollectionID": 11,
+        "hadith_count": 14,
+        "hadith_end": 666,
+        "hadith_start": 653,
+        "name_en": "Kunyas",
+        "nameshort_en": "Kunyas"
+    },
+    {
+        "BookID": "36",
+        "CollectionID": 11,
+        "hadith_count": 19,
+        "hadith_end": 685,
+        "hadith_start": 667,
+        "name_en": "Poetry",
+        "nameshort_en": "Poetry"
+    },
+    {
+        "BookID": "37",
+        "CollectionID": 11,
+        "hadith_count": 13,
+        "hadith_end": 698,
+        "hadith_start": 686,
+        "name_en": "Words",
+        "nameshort_en": "Words"
+    },
+    {
+        "BookID": "38",
+        "CollectionID": 11,
+        "hadith_count": 19,
+        "hadith_end": 717,
+        "hadith_start": 699,
+        "name_en": "General Behaviour",
+        "nameshort_en": "General Behaviour"
+    },
+    {
+        "BookID": "39",
+        "CollectionID": 11,
+        "hadith_count": 12,
+        "hadith_end": 729,
+        "hadith_start": 718,
+        "name_en": "Omens",
+        "nameshort_en": "Omens"
+    },
+    {
+        "BookID": "40",
+        "CollectionID": 11,
+        "hadith_count": 33,
+        "hadith_end": 762,
+        "hadith_start": 730,
+        "name_en": "Sneezing and Yawning",
+        "nameshort_en": "Sneezing and Yawning"
+    },
+    {
+        "BookID": "41",
+        "CollectionID": 11,
+        "hadith_count": 13,
+        "hadith_end": 775,
+        "hadith_start": 763,
+        "name_en": "Gestures",
+        "nameshort_en": "Gestures"
+    },
+    {
+        "BookID": "42",
+        "CollectionID": 11,
+        "hadith_count": 87,
+        "hadith_end": 862,
+        "hadith_start": 776,
+        "name_en": "Greeting",
+        "nameshort_en": "Greeting"
+    },
+    {
+        "BookID": "43",
+        "CollectionID": 11,
+        "hadith_count": 50,
+        "hadith_end": 912,
+        "hadith_start": 863,
+        "name_en": "Asking Permission to Enter",
+        "nameshort_en": "Asking Permission to Enter"
+    },
+    {
+        "BookID": "44",
+        "CollectionID": 11,
+        "hadith_count": 16,
+        "hadith_end": 928,
+        "hadith_start": 913,
+        "name_en": "People of the Book",
+        "nameshort_en": "People of the Book"
+    },
+    {
+        "BookID": "45",
+        "CollectionID": 11,
+        "hadith_count": 19,
+        "hadith_end": 947,
+        "hadith_start": 929,
+        "name_en": "Letters and greetings",
+        "nameshort_en": "Letters and greetings"
+    },
+    {
+        "BookID": "46",
+        "CollectionID": 11,
+        "hadith_count": 18,
+        "hadith_end": 965,
+        "hadith_start": 948,
+        "name_en": "Gatherings",
+        "nameshort_en": "Gatherings"
+    },
+    {
+        "BookID": "47",
+        "CollectionID": 11,
+        "hadith_count": 22,
+        "hadith_end": 987,
+        "hadith_start": 966,
+        "name_en": "Behaviour with people",
+        "nameshort_en": "Behaviour with people"
+    },
+    {
+        "BookID": "48",
+        "CollectionID": 11,
+        "hadith_count": 24,
+        "hadith_end": 1011,
+        "hadith_start": 988,
+        "name_en": "Sitting and lying down",
+        "nameshort_en": "Sitting and lying down"
+    },
+    {
+        "BookID": "49",
+        "CollectionID": 11,
+        "hadith_count": 6,
+        "hadith_end": 1017,
+        "hadith_start": 1012,
+        "name_en": "Mornings and evenings",
+        "nameshort_en": "Mornings and evenings"
+    },
+    {
+        "BookID": "50",
+        "CollectionID": 11,
+        "hadith_count": 27,
+        "hadith_end": 1044,
+        "hadith_start": 1018,
+        "name_en": "Sleeping and going to bed",
+        "nameshort_en": "Sleeping and going to bed"
+    },
+    {
+        "BookID": "51",
+        "CollectionID": 11,
+        "hadith_count": 6,
+        "hadith_end": 1050,
+        "hadith_start": 1045,
+        "name_en": "Animals",
+        "nameshort_en": "Animals"
+    },
+    {
+        "BookID": "52",
+        "CollectionID": 11,
+        "hadith_count": 6,
+        "hadith_end": 1056,
+        "hadith_start": 1051,
+        "name_en": "Midday Naps",
+        "nameshort_en": "Midday Naps"
+    },
+    {
+        "BookID": "53",
+        "CollectionID": 11,
+        "hadith_count": 15,
+        "hadith_end": 1071,
+        "hadith_start": 1057,
+        "name_en": "Circumcision",
+        "nameshort_en": "Circumcision"
+    },
+    {
+        "BookID": "54",
+        "CollectionID": 11,
+        "hadith_count": 23,
+        "hadith_end": 1094,
+        "hadith_start": 1072,
+        "name_en": "Betting and similar pastimes",
+        "nameshort_en": "Betting and similar pastimes"
+    },
+    {
+        "BookID": "55",
+        "CollectionID": 11,
+        "hadith_count": 23,
+        "hadith_end": 1117,
+        "hadith_start": 1095,
+        "name_en": "Various",
+        "nameshort_en": "Various"
+    },
+    {
+        "BookID": "56",
+        "CollectionID": 11,
+        "hadith_count": 12,
+        "hadith_end": 1129,
+        "hadith_start": 1118,
+        "name_en": "Aspects of Behaviour",
+        "nameshort_en": "Aspects of Behaviour"
+    },
+    {
+        "BookID": "57",
+        "CollectionID": 11,
+        "hadith_count": 7,
+        "hadith_end": 1136,
+        "hadith_start": 1130,
+        "name_en": "Anger",
+        "nameshort_en": "Anger"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 12,
+        "hadith_count": 180,
+        "hadith_end": 180,
+        "hadith_start": 1,
+        "name_en": "The Book of Purification",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "2",
+        "CollectionID": 12,
+        "hadith_count": 0,
+        "hadith_end": null,
+        "hadith_start": null,
+        "name_en": "The Book of Prayers",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "3",
+        "CollectionID": 12,
+        "hadith_count": 66,
+        "hadith_end": 246,
+        "hadith_start": 181,
+        "name_en": "Funerals",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "4",
+        "CollectionID": 12,
+        "hadith_count": 51,
+        "hadith_end": 297,
+        "hadith_start": 247,
+        "name_en": "The Book of Zakah",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "5",
+        "CollectionID": 12,
+        "hadith_count": 58,
+        "hadith_end": 355,
+        "hadith_start": 298,
+        "name_en": "Fasting",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "6",
+        "CollectionID": 12,
+        "hadith_count": 74,
+        "hadith_end": 429,
+        "hadith_start": 356,
+        "name_en": "Hajj",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "7",
+        "CollectionID": 12,
+        "hadith_count": 0,
+        "hadith_end": null,
+        "hadith_start": null,
+        "name_en": "Business Transactions",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "8",
+        "CollectionID": 12,
+        "hadith_count": 0,
+        "hadith_end": null,
+        "hadith_start": null,
+        "name_en": "Marriage",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "9",
+        "CollectionID": 12,
+        "hadith_count": 47,
+        "hadith_end": 476,
+        "hadith_start": 430,
+        "name_en": "Crimes (Qisas or Retaliation)",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "10",
+        "CollectionID": 12,
+        "hadith_count": 58,
+        "hadith_end": 534,
+        "hadith_start": 477,
+        "name_en": "Hudud",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "11",
+        "CollectionID": 12,
+        "hadith_count": 63,
+        "hadith_end": 597,
+        "hadith_start": 535,
+        "name_en": "Jihad",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "12",
+        "CollectionID": 12,
+        "hadith_count": 45,
+        "hadith_end": 642,
+        "hadith_start": 598,
+        "name_en": "Food",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "13",
+        "CollectionID": 12,
+        "hadith_count": 23,
+        "hadith_end": 665,
+        "hadith_start": 643,
+        "name_en": "Oaths and Vows",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "14",
+        "CollectionID": 12,
+        "hadith_count": 36,
+        "hadith_end": 701,
+        "hadith_start": 666,
+        "name_en": "Judgments",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "15",
+        "CollectionID": 12,
+        "hadith_count": 20,
+        "hadith_end": 721,
+        "hadith_start": 702,
+        "name_en": "Emancipation",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "16",
+        "CollectionID": 12,
+        "hadith_count": 141,
+        "hadith_end": 862,
+        "hadith_start": 722,
+        "name_en": "The Comprehensive Book",
+        "nameshort_en": null
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 13,
+        "hadith_count": 42,
+        "hadith_end": 42,
+        "hadith_start": 1,
+        "name_en": "Forty Nawawi Hadith",
+        "nameshort_en": "Forty Nawawi Hadith"
+    },
+    {
+        "BookID": "1",
+        "CollectionID": 14,
+        "hadith_count": 40,
+        "hadith_end": 40,
+        "hadith_start": 1,
+        "name_en": "Forty Qudsi Hadith",
+        "nameshort_en": "Forty Qudsi Hadith"
+    }
+]
