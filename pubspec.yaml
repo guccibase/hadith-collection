@@ -30,12 +30,17 @@ dependencies:
   cupertino_icons: ^1.0.1
   sqflite: ^1.3.2+2
   flutter_launcher_icons: ^0.8.1
+  in_app_review: ^1.0.4
+  share_plus: ^1.2.0
+  in_app_review_platform_interface: ^1.0.5
+  selectable_autolink_text: ^2.3.0
+  url_launcher: ^5.6.0
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  integration_test:
-    sdk: flutter
+
 
 flutter_icons:
   android: "launcher_icon"

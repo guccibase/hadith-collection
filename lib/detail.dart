@@ -1,9 +1,11 @@
 import 'dart:convert';
+import 'dart:io';
 
 import "package:flutter/foundation.dart";
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:sahih_bukhari_app/animations/bottomAnimation.dart';
+import 'package:sahih_bukhari_app/customWidgets/common_widgets.dart';
 import 'package:sahih_bukhari_app/model/ChapterModel.dart';
 import 'package:sahih_bukhari_app/model/HadithModel.dart';
 
@@ -107,7 +109,9 @@ class _DetailState extends State<Detail> {
                       padding:
                           const EdgeInsets.only(top: 20, left: 20, right: 20),
                       child: Icon(
-                        Icons.keyboard_backspace_rounded,
+                        Platform.isAndroid
+                            ? Icons.arrow_back
+                            : Icons.arrow_back_ios,
                         color: Colors.white70,
                       ),
                     ),
@@ -195,6 +199,10 @@ class _DetailState extends State<Detail> {
                                         ),
                                         Card(
                                           elevation: 8,
+                                          shape: RoundedRectangleBorder(
+                                            borderRadius:
+                                                BorderRadius.circular(15.0),
+                                          ),
                                           child: Padding(
                                             padding: const EdgeInsets.all(8.0),
                                             child: Column(
@@ -292,8 +300,9 @@ class _DetailState extends State<Detail> {
                                                     child: SizedBox(
                                                       width: double.infinity,
                                                       child: Container(
-                                                        child: Text(
-                                                            hadithsList[index]
+                                                        child: ArDescriptionTextWidget(
+                                                            text: hadithsList[
+                                                                    index]
                                                                 .textAr,
                                                             textDirection:
                                                                 TextDirection
@@ -319,17 +328,23 @@ class _DetailState extends State<Detail> {
                                                   child: SizedBox(
                                                     width: double.infinity,
                                                     child: Container(
-                                                      child: Text(
-                                                          hadithsList[index]
-                                                              .textEn,
-                                                          style: TextStyle(
-                                                              height: 1.4,
-                                                              fontFamily:
-                                                                  'Amiri',
-                                                              fontWeight:
-                                                                  FontWeight
-                                                                      .w100)),
-                                                    ),
+                                                        child:
+                                                            EnDescriptionTextWidget(
+                                                      text: hadithsList[index]
+                                                          .textEn,
+                                                    )
+
+                                                        // Text(
+                                                        //     hadithsList[index]
+                                                        //         .textEn,
+                                                        //     style: TextStyle(
+                                                        //         height: 1.4,
+                                                        //         fontFamily:
+                                                        //             'Amiri',
+                                                        //         fontWeight:
+                                                        //             FontWeight
+                                                        //                 .w100)),
+                                                        ),
                                                   ),
                                                 ),
                                                 Divider(

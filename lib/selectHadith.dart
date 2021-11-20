@@ -1,10 +1,21 @@
 import 'dart:convert';
+import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:in_app_review/in_app_review.dart';
+import 'package:sahih_bukhari_app/about_us.dart';
 import 'package:sahih_bukhari_app/animations/bottomAnimation.dart';
 import 'package:sahih_bukhari_app/customWidgets/flare.dart';
 import 'package:sahih_bukhari_app/main.dart';
 import 'package:sahih_bukhari_app/model/CollectionModel.dart';
+import 'package:sahih_bukhari_app/privacy-policy.dart';
+import 'package:share_plus/share_plus.dart';
+
+enum Availability { LOADING, AVAILABLE, UNAVAILABLE }
+
+extension on Availability {
+  String stringify() => this.toString().split('.').last;
+}
 
 class SelectHadith extends StatefulWidget {
   @override
@@ -15,12 +26,34 @@ class _SelectHadithState extends State<SelectHadith> {
   List<CollectionModel> _searchResult = [];
   List<CollectionModel> _userDetails = [];
   TextEditingController controller = new TextEditingController();
+  final InAppReview _inAppReview = InAppReview.instance;
+  String _appStoreId = '1563527366';
+  String _microsoftStoreId = '';
+  Availability _availability = Availability.LOADING;
+  final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
+  Future<void> _openStoreListing() => _inAppReview.openStoreListing(
+        appStoreId: _appStoreId,
+        microsoftStoreId: _microsoftStoreId,
+      );
 
   @override
   void initState() {
     super.initState();
 
     loadCategories();
+    WidgetsBinding.instance.addPostFrameCallback((_) async {
+      try {
+        final isAvailable = await _inAppReview.isAvailable();
+
+        setState(() {
+          _availability = isAvailable && Platform.isAndroid
+              ? Availability.AVAILABLE
+              : Availability.UNAVAILABLE;
+        });
+      } catch (e) {
+        setState(() => _availability = Availability.UNAVAILABLE);
+      }
+    });
   }
 
   Future loadCategories() async {
@@ -36,19 +69,98 @@ class _SelectHadithState extends State<SelectHadith> {
     });
   }
 
+  void _onShare(BuildContext context) async {
+    String appLink = "http://onelink.to/hadithcollection";
+    String subject =
+        "Assalaamu Alaikum, checkout this Hadith app with English translation. It's ad-free and privacy focused";
+    final box = context.findRenderObject() as RenderBox;
+
+    await Share.share(appLink,
+        subject: subject,
+        sharePositionOrigin: box.localToGlobal(Offset.zero) & box.size);
+  }
+
   @override
   Widget build(BuildContext context) {
     double height = MediaQuery.of(context).size.height;
     double width = MediaQuery.of(context).size.width;
 
     return Scaffold(
+      key: _scaffoldKey,
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.menu),
+          color: Colors.white70,
+          onPressed: () => _scaffoldKey.currentState.openDrawer(),
+        ),
         title: Center(
             child: Text(
           'Hadiths',
           style: TextStyle(fontSize: 30),
         )),
         brightness: Brightness.dark,
+      ),
+      drawer: Drawer(
+        child: SafeArea(
+          child: Padding(
+            padding: const EdgeInsets.all(20.0),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Image.asset('assets/images/icon.png'),
+                SizedBox(
+                  height: 40,
+                ),
+                ListTile(
+                  leading: Icon(Icons.share_outlined),
+                  title: Text('Share app'),
+                  onTap: () => _onShare(context),
+                ),
+                ListTile(
+                  leading: Icon(Icons.star_rate_outlined),
+                  title: Text('Rate app'),
+                  onTap: () => _openStoreListing(),
+                ),
+                ListTile(
+                  leading: Icon(Icons.account_box_outlined),
+                  title: Text('About us'),
+                  onTap: () => Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => AboutUs())),
+                ),
+                ListTile(
+                  leading: Icon(Icons.share_outlined),
+                  title: Text('Privacy Policy'),
+                  onTap: () => Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => PrivacyPolicyScreen())),
+                ),
+                ListTile(
+                  onTap: () => Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => LicensePage(
+                          applicationIcon: ImageIcon(
+                            AssetImage(
+                              'assets/images/icon.png',
+                            ),
+                            size: 100,
+                          ),
+                          applicationName: 'Hadith Collection',
+                          applicationLegalese: 'UMRA Tech @2021',
+                        ),
+                      )),
+                  title: Text("Third Party Libraries"),
+                  leading: Wrap(
+                    children: <Widget>[
+                      Icon(Icons.library_add_outlined),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
       ),
       body: Stack(
         children: [
@@ -211,8 +323,12 @@ class _SelectHadithState extends State<SelectHadith> {
 
   Widget _buildSearchBox() {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 30, vertical: 10),
-      child: Card(
+      padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 5),
+      child: Container(
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(15),
+          color: Theme.of(context).backgroundColor,
+        ),
         child: Padding(
           padding: const EdgeInsets.only(left: 8),
           child: Row(
