@@ -8,6 +8,7 @@ import 'package:sahih_bukhari_app/animations/bottomAnimation.dart';
 import 'package:sahih_bukhari_app/customWidgets/common_widgets.dart';
 import 'package:sahih_bukhari_app/model/ChapterModel.dart';
 import 'package:sahih_bukhari_app/model/HadithModel.dart';
+import 'package:share_plus/share_plus.dart';
 
 class Detail extends StatefulWidget {
   final String id, collectionId, ar_title, en_title;
@@ -89,6 +90,15 @@ class _DetailState extends State<Detail> {
     getDetailList();
   }
 
+  void _onShare(String text) async {
+    String subject = "Assalaamu Alaikum, checkout this Hadith";
+    final box = context.findRenderObject() as RenderBox;
+
+    await Share.share(text,
+        subject: subject,
+        sharePositionOrigin: box.localToGlobal(Offset.zero) & box.size);
+  }
+
   @override
   Widget build(BuildContext context) {
     double height = MediaQuery.of(context).size.height;
@@ -168,7 +178,12 @@ class _DetailState extends State<Detail> {
                                                       hadithsList[index]
                                                           .chapID +
                                                       ". ",
-                                                  style: TextStyle(height: 1.3),
+                                                  style: TextStyle(
+                                                    height: 1.3,
+                                                    fontSize: 18,
+                                                    fontWeight: FontWeight.bold,
+                                                    color: Colors.white70,
+                                                  ),
                                                 ),
                                               ),
                                               Visibility(
@@ -190,6 +205,10 @@ class _DetailState extends State<Detail> {
                                                         hadithsList[index]),
                                                     style: TextStyle(
                                                       height: 1.3,
+                                                      fontSize: 18,
+                                                      fontWeight:
+                                                          FontWeight.bold,
+                                                      color: Colors.white70,
                                                     ),
                                                   ),
                                                 ),
@@ -207,38 +226,47 @@ class _DetailState extends State<Detail> {
                                             padding: const EdgeInsets.all(8.0),
                                             child: Column(
                                               children: [
-                                                Padding(
-                                                  padding:
-                                                      const EdgeInsets.all(8.0),
-                                                  child: Row(
-                                                    crossAxisAlignment:
-                                                        CrossAxisAlignment
-                                                            .start,
-                                                    children: [
-                                                      Text(
-                                                        hadithsList[index]
-                                                            .hadithID,
-                                                        style: TextStyle(
-                                                            fontSize: 16,
-                                                            height: 1.3),
-                                                      ),
-                                                      SizedBox(
-                                                        width: 16,
-                                                      ),
-                                                      Expanded(
-                                                        child: Text(
-                                                          // textAlign:TextAlign.end,
-                                                          hadithsList[index]
-                                                              .gradeEn,
-                                                          textDirection:
-                                                              TextDirection.rtl,
-                                                          style: TextStyle(
-                                                              fontSize: 14,
-                                                              height: 1.3),
-                                                        ),
-                                                      ),
-                                                    ],
-                                                  ),
+                                                Row(
+                                                  crossAxisAlignment:
+                                                      CrossAxisAlignment.center,
+                                                  children: [
+                                                    Text(
+                                                      hadithsList[index]
+                                                          .hadithID,
+                                                      style: TextStyle(
+                                                          fontSize: 16,
+                                                          height: 1.3),
+                                                    ),
+                                                    Spacer(),
+                                                    IconButton(
+                                                        onPressed: () =>
+                                                            _onShare(
+                                                              hadithsList[index]
+                                                                      .narratorEn +
+                                                                  "\n" +
+                                                                  hadithsList[
+                                                                          index]
+                                                                      .textAr +
+                                                                  "\n" +
+                                                                  hadithsList[
+                                                                          index]
+                                                                      .textEn +
+                                                                  "\n" +
+                                                                  hadithsList[
+                                                                          index]
+                                                                      .referenceEn,
+                                                            ),
+                                                        icon: Icon(Icons.share))
+                                                  ],
+                                                ),
+                                                Text(
+                                                  // textAlign:TextAlign.end,
+                                                  hadithsList[index].gradeEn,
+                                                  textDirection:
+                                                      TextDirection.rtl,
+                                                  style: TextStyle(
+                                                      fontSize: 14,
+                                                      height: 1.3),
                                                 ),
                                                 Visibility(
                                                   visible: () {

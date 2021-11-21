@@ -85,8 +85,7 @@ class PrivacyPolicyScreen extends StatelessWidget {
                 ),
                 policyPoints(
                   headerText: '7. WHAT ARE YOUR PRIVACY RIGHTS?',
-                  boldPointText:
-                      'You may revoke app permisions and uninstall the app at anytime',
+                  boldPointText: 'You may uninstall the app at anytime',
                   descriptionText: privacyRights,
                   context: context,
                 ),
@@ -114,15 +113,14 @@ class PrivacyPolicyScreen extends StatelessWidget {
                 policyPoints(
                     headerText: '11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?',
                     boldPointText:
-                        'If you have questions or comments about this notice, you may email us at info@umratech.com or contact us through the app store',
+                        'If you have questions or comments about this notice, you may email us at umratechnologies@gmail.com or contact us through the app store',
                     context: context,
                     descriptionText: '.....'),
                 policyPoints(
                     context: context,
                     headerText:
                         '12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?',
-                    boldPointText:
-                        'You have the right to revoke apps permission to get access to your location',
+                    boldPointText: 'We do not collect any data from you.',
                     descriptionText: '.....'),
               ],
             ),
@@ -139,26 +137,18 @@ String privacyNotice =
     'If you have any questions or concerns about this privacy notice, or our practices with '
     'regards to our apps access, please email us .When you use our mobile application, '
     'as the case may be (the "App") and more generally, use any of our services (the "Services", '
-    'which include the App), we appreciate that you are trusting us with access to your location. '
+    'which include the App), we appreciate that you are trusting us. '
     'We take your privacy very seriously. In this privacy notice, we seek to explain to you in the'
     ' clearest way possible what our app does, what access it has and what rights you have in '
     'relation to it. We hope you take some time to read through it carefully, as it is important. '
     'If there are any terms in this privacy notice that you do not agree with, please discontinue '
     'use of our app immediately. This privacy notice applies to all functions of our app. '
     'Please read this privacy notice carefully as it will help you understand what our app '
-    'does with your location data.';
+    'does.';
 
 String informationWeCollect =
-    'If you use our App, we do not collect any of your information. '
-    'The app (Hadith Collection) will only ask for permission to access your '
-    'location data which will be used to accurately get and display the current '
-    'Halal locations and Mosques in your area. We do not collect or keep your '
-    'location data anywhere. It stays in your device. If you wish to not grant '
-    'it access you can always deny to give it access and uninstall the app '
-    'or you can grant it access only while the app is in use. If you wish '
-    'to change the access or permissions, " you may do so in your device’s '
-    'settings.The access is primarily needed to show and maintain " '
-    'accurate locations near you';
+    'If you use our App, we do not collect any of your information. We do not collect or keep your '
+    'data anywhere.';
 
 String informationShared =
     'We do not collect, store or share any of your information.';
@@ -184,9 +174,7 @@ String privacyRights =
     'here: http://ec.europa.eu/justice/data-protect ion/bodies/authorities/index_en.htm. '
     'If you are resident in Switzerland, the contact details for the data protection '
     'authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html. '
-    'If you have questions or comments about your privacy rights, you may email us. '
-    'If you would at any time like to revoke access to your location or uninstall our'
-    ' app, you can do so in your phone settings and uninstall the app.';
+    'If you have questions or comments about your privacy rights, you may email us. ';
 
 String doNotTrack =
     'Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”)'
