@@ -13,29 +13,27 @@ void main() {
 }
 
 final darkTheme = ThemeData(
-    primarySwatch: Colors.grey,
-    primaryColor: Colors.black,
-    brightness: Brightness.dark,
-    backgroundColor: const Color(0xFF212121),
-    accentColor: Color(0xff896277),
-    accentIconTheme: IconThemeData(color: Colors.black),
-    dividerColor: Colors.black12,
-    fontFamily: 'AmiriRegular',
-    textTheme: TextTheme(
-        headline1: TextStyle(
-            fontFamily: 'AmiriRegular',
-            fontSize: 42,
-            fontWeight: FontWeight.w600),
-        headline2: TextStyle(
-            fontFamily: 'AmiriRegular',
-            fontSize: 28,
-            fontWeight: FontWeight.w600),
-        bodyText1: TextStyle(
-            fontFamily: "AmiriRegular",
-            fontSize: 18,
-            height: 1.3,
-            fontWeight: FontWeight.w600),
-        caption: TextStyle(fontFamily: "AmiriRegular", fontSize: 14)));
+  primarySwatch: Colors.grey,
+  primaryColor: Colors.black,
+  brightness: Brightness.dark,
+  backgroundColor: const Color(0xFF212121),
+  accentColor: Color(0xff896277),
+  accentIconTheme: IconThemeData(color: Colors.black),
+  dividerColor: Colors.black12,
+  fontFamily: 'AmiriRegular',
+  textTheme: TextTheme(
+    headline1: TextStyle(
+        fontFamily: 'AmiriRegular', fontSize: 42, fontWeight: FontWeight.w600),
+    headline2: TextStyle(
+        fontFamily: 'AmiriRegular', fontSize: 28, fontWeight: FontWeight.w600),
+    bodyText1: TextStyle(
+        fontFamily: "AmiriRegular",
+        fontSize: 18,
+        height: 1.3,
+        fontWeight: FontWeight.w600),
+    caption: TextStyle(fontFamily: "AmiriRegular", fontSize: 14),
+  ),
+);
 
 class MyApp extends StatelessWidget {
   @override
@@ -273,8 +271,12 @@ class _MyHomePageState extends State<MyHomePage> {
 
   Widget _buildSearchBox() {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 30, vertical: 10),
-      child: Card(
+      padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 5),
+      child: Container(
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(15),
+          color: Theme.of(context).backgroundColor,
+        ),
         child: Padding(
           padding: const EdgeInsets.only(left: 8),
           child: Row(
